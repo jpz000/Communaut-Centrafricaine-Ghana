@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+	    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-119757906-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-119757906-1');
+</script>
+
+		<meta charset="utf-8">
+
+		<title>Découvrez notre Communauté | Communauté Centrafricaine du Ghana </title>
+<!--
+
+Siteweb de la Communauté Centrafricaine du Ghana. Developpement par Jean Paul Zolabe.
+
+-->
+		<meta name="google-site-verification" content="5lWbnQWR5yZa9CMCVnwwJAjyXO4fXPWITpuNGQejct4" />
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="keywords" content="Communauté Centrafricaine du Ghana. CCGSEWA.COM. Etudier et vivre au Ghana. Etudier l'Anglais au Ghana. Cout des Etudes au Ghana. Ecoles de Langue au Ghana. Apprendre l'Anglais au Ghana. Liste des Universités au Ghana. Etudier a Accra. Universités au Ghana. Jean Paul Zolabe. Etudier au Ghana. Informatique au Ghana, Logistique au Ghana, Commerce au Ghana, Marketing au Ghana, Comptabilité au Ghana. Etudiants francophones au Ghana. Etudier au Ghana. Centrafricains au Ghana. Vivre au Ghana. Etudier a Accra. Centrafrique et Ghana. Etudes Centrafrique. Etudes Ghana. Etudier au Ghana. Jean Paul Zolabe. Logement au Ghana. Etudier au Ghana. L'Anglais au Ghana. Centrafrique Ghana. Jean Paul Zolabe.">
+		<meta name="description" content="Découvrez la Communauté Centrafricaine du Ghana | Bureau Executif et Fonctionnement | Comment venir au Ghana | Procédures et Visa | Toutes les informations sur les études et la vie au Ghana mises a la disposition de tous les francophones par la Communauté Centrafricaine du Ghana - CCG.">
+
+		<!-- animate -->
+		<link rel="stylesheet" href="css/animate.min.css">
+		<!-- bootstrap -->
+		<link rel="stylesheet" href="css/bootstrap.min.css">
+		<!-- font-awesome -->
+		<link rel="stylesheet" href="css/font-awesome.min.css">
+		<!-- google font -->
+		<link href='http://fonts.googleapis.com/css?family=Raleway:400,300,700,800' rel='stylesheet' type='text/css'>
+		<!-- custom -->
+		<link rel="stylesheet" href="css/style.css">
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
+        <link rel="shortcut icon" type="image/png" href="images/favicon.png"/>
+	</head>
+	<body data-spy="scroll" data-offset="50" data-target=".navbar-collapse">
+		<!-- start navigation C.C.G. Communaute Centrafricaine du Ghana-->
+		<div class="navbar navbar-fixed-top navbar-default-2" role="navigation">
+			<div class="container">
+				<div class="navbar-header">
+					<button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+					<a href="index.html"><i class="fa fa-home" style="font-size:20px;"></i></a>
+					</button>
+					<a href="index.html"><img src="images/ccgsewa-logo-nav.png" alt="logo de la CCG"></a>
+				</div>
+				<div class="collapse navbar-collapse">
+				<div class="hl">
+					<ul class="nav navbar-nav navbar-right">
+						<li><a href="index.html" class="smoothScroll">ACCUEIL</a></li>
+						<li><a href="#contact" class="smoothScroll">CONTACT</a></li>
+						<li class="erg"><a style="color:#fff;" href="enregistrez_vous" class="smoothScroll">ENREGISTREZ VOUS</a></li>
+					</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<section id="welcomeBanner">
+          <img src="images/ccgsewa-enregistrez_vous-img.jpg" alt="Rejoignez la famille Centrafricaine du Ghana">
+        </section>
+
+<div id="presentation">
+			<div class="container">
+				<h1>Notre Communauté</h1>				
+			</div>		
+		<div class="textIntro">
+		<div class="container">	
+			<div class="row">
+				<div class="col-md-8 col-sm-12">
+					<hr>
+						<p>La diaspora Centrafricaine du Ghana est constituée de jeunes femmes et hommes énergétiques, engagés et patriotiques, qui de par leur formation, leur créativité et leur esprit entrepreunarial sont appelés à jouer un rôle primordiale dans le developpement du Centrafrique. Aujourd’hui le Ghana est devenu un pôle important dans la formation des futurs cadres Centrafricains. De plus de plus de jeunes y viennent pour poursuivre leurs études universitaires ou pour les compléter par des formations en anglais. La C.C.G. reçoit ainsi chaque année, en son sein des dizaines de jeunes provenant soit directement de la R.C.A. ou de la sous-région. Tout Centrafricain résidant sur le territoire ghanéen est prié de <a href="enregistrez_vous">s'enregistrer auprès de la C.C.G.</a> </p>
+						<hr>
+				</div>
+				<div class="col-md-4 col-sm-12">
+					<h3>SLOGAN</h3>
+					<p>Levons-nous et batissons !</p>
+					<h3>DEVISE</h3>
+					<p>Solidarité. Discipline. Travail.</p>
+					<h3>CREATION</h3>
+					<p>Mars 2006</p>
+				</div>
+			</div>	
+		</div>
+	    </div>
+	</div>
+	
+	
+	<div id="neutral">
+	<center>
+	
+		<a href="enregistrez_vous"><div class="btn">
+        			<p1>ENREGISTREZ VOUS ICI</p1>
+        			
+        	</div></a>
+        
+	</center>
+	</div>
+
+
+	<div id="com-img">
+		<div class="container">
+			<div class="col-md-4">
+				<img src="images/ccgsewa-logo-img.png">
+				<p>Logo de la Communauté Centrafricaine du Ghana. Le cycle C.C.G. représentant les Centrafricains du Ghana soutenant le Centrafrique.</p>
+			</div>
+			<div class="col-md-8">
+				
+			</div>
+		</div>
+	</div>
+
+
+	<div id="img-data">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-4">
+					<div class="content">
+						<img src="images/ccgsewa-fonctionnement.jpg">
+						<h3>Fonctionnement</h3>
+						<p>La Communauté Centrafricaine du Ghana est dirigée par un bureau exécutif élu pour un mandat d’une année renouvelable une seule fois. Le bureau a la charge de veiller sur les droits et le bien etre des Centrafricains vivant au Ghana. Il planifie et organise des activités ayant pour but de rassembler les Centrafricains et de soutenir les étudiants dans leurs études. Une contribution mensuelle de 4 Ghana Cedis est requise de la part de tous les membres enregistrés, cette contribution permet de financer les activités de la C.C.G.</p>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="content">
+						<img src="images/ccgsewa-activites.jpg">
+						<h3>Activités</h3>
+						<p>Tout au long de l'année, la C.C.G. organise diverses  activités:</p>
+						<ul style="list-style-type:square">
+                    <li><p>Assemblées Generales</p></li>
+                    <li><p>Activités sportives</p></li>
+                    <li><p>Seminaires, conférences et débats</p></li>
+                    <li><p>Excursions et pique-niques</p></li>
+                    <li><p>Soirées gala</p></li>
+                    <li><p>Visites d'assistance</p></li>
+                    <li><p>Rencontres intercommunautaires</p></li>
+                        </ul>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="content">
+						<img src="images/ccgsewa-membres.jpg">						
+						<h3>Membres</h3>
+						<p>Tout centrafricain résidant au Ghana est de fait membre de la Communauté. Il est cependant <a href="notre_communaute">nécessaire de s’enregistrer</a> dès son arrivée, pour obtenir sa carte d’adhérent. Une fois enregistré, vous bénéficierez du support administratif de la C.C.G. en cas de problème (accident, perte de papiers, police, etc.). En vous enregistrant, vous permettrez également a toute la Commuanauté de vous assister plus éfficacement en cas de difficultés personnelles. D’après les derniers chiffres il y aurait environ 650 Centrafricains vivant au Ghana.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div id="neutral">
+	<center>
+	
+		<a href="enregistrez_vous"><div class="btn">
+        			<p1>ENREGISTREZ VOUS ICI</p1>
+        			
+        	</div></a>
+	</center>
+	</div>
+
+	<section id="welcomeBanner">
+          <img src="images/com-img.jpg">
+    </section>
+
+
+
+       <div id="visa"> 
+
+                 <div class="container"> 
+                 <hr>	
+
+				<div class="row">
+					<div class="col-md-2"></div>
+					<div class="col-md-8 col-sm-12">
+						<h2>Venir au Ghana</h2>
+						<p>Il existe de nombreux vols reliant indirectement Bangui et Accra, vous pourrez vous renseigner auprès des agences de voyages à Bangui pour plus de détails. <b>Attention ! Le Ghana requiert un visa d'entrée pour les ressortissants du Centrafrique et des autres pays de l'Afrique Centrale.</b> Le visa peut être pris une fois sur place à l'aéroport d'Accra au prix de 150 dollars US, environ 100.000 FCFA. Une méthode moins couteuse est de prendre un vol direct vers le Togo (Lomé) ou le Benin (Cotonou). Une fois dans l'un de ces pays, on peut faire une demande de visa à l'ambassade du Ghana qui s’y trouve. Le visa obtenu, on peut prendre un bus pour venir au Ghana. Pour obtenir un visa d'entrée, il vous faut généralement avoir au préalable une lettre d'admission d'une école de langue ou disposer d’une lettre d'invitation de la part d'une de vos connaissances résidant au Ghana.</p>
+					</div>	
+					<div class="col-md-2"></div>					
+					</div>
+					<div class="row">	
+					<div class="col-md-3"></div>			
+					<div class="col-md-6 col-sm-12">
+					<center><i class="fa fa-lightbulb-o"></i></center>
+					<h4>ATTENTION</h4>
+					<div class="residencePermit">	
+						<h3>CARTE DE SEJOUR</h3>
+						<p>Une fois arrivé au Ghana et inscrit dans une école, il vous est imperatif de régulariser votre séjour en obtenant votre carte de séjour, le <i>residence permit</i>. Il est votre garant de sécurité et faillir à l'obtenir peut vous mettre dans des situations vraiment compliquées. Une fois inscrit dans une école de langues, approchez vous du <i>Service Etudiant</i> pour demander assistance ou rapprochez vous du bureau exécutif de la Communauté. </p>
+					</div>
+				    </div>
+				    <div class="col-md-3"></div>
+				</div>
+				
+			</div>
+			
+			
+		</div>
+	
+
+
+	<div id="bureau">
+		<div class="container">
+			<div class="row">
+				<div >
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+      <div id="bureauExecutif">
+        <div class="container">
+          
+            <h2>BUREAU EXECUTIF</h2>
+            <p1><i>2018-2019</i></p1>
+            <hr>
+            
+        <div class="row">
+          <div class="col-md-3 col-sm-6 col-xs-6 wow fadeIn" data-wow-delay="0.9s">
+          <div class="mbr"> 
+            <img src="images/ccgsewa-president.jpg" alt="President de la CCG">
+            <h3>KEN JUVENAL BISSAHOLO</h3>
+            <p>President</p>
+          </div>
+            </div>
+          <div class="col-md-3 col-sm-6 col-xs-6 wow fadeIn" data-wow-delay="0.3s"> 
+            <div class="mbr"> 
+            <img src="images/ccgsewa-vicepresident.jpg"  alt="VP de CCG">
+            <h3>SILAS MARTIAL SAMBO</h3>
+            <p>Vice President</p>
+          </div>  
+          </div>
+          <div class="col-md-3 col-xs-6 wow fadeIn" data-wow-delay="0.9s">
+          <div class="mbr"> 
+            <img src="images/ccgsewa-sga.jpg"  alt="SGA de la CCG">
+            <h3>GRACE A DIEU NGUEREDE</h3>
+            <p>Secretariat General</p>
+          </div>
+            </div>
+          <div class="col-md-3 col-xs-6 wow fadeIn" data-wow-delay="0.9s">
+            <div class="mbr"> 
+            <img src="images/ccgsewa-tg.jpg" alt="TG de la C.C.G.">
+            <h3>ROXANE NAMKOISSE</h3>
+            <p>Tresoriere Generale</p>
+          </div>
+          </div>  
+        </div>
+
+        <div class="row">
+          <div class="col-md-3 col-xs-6 wow fadeInDown" data-wow-delay="1.2">
+          <div class="mbr"> 
+            <img src="images/ccgSC.jpg" class="img-responsive" alt="CASC de la CCG">
+            <h3>EUPHREM NDOKOULA</h3>
+            <p>Activites Sociales et Sportives</p>
+          </div>  
+          </div>
+          <div class="col-md-3 col-xs-6 wow fadeIn" data-wow-delay="1.5s">
+          <div class="mbr">
+            <img src="images/ccgsewa-logo-img.png" class="img-responsive" alt="CC de la CCG">
+            <h3>ELISEE BATEKPE</h3>
+            <p>Commissaire aux Comptes</p>
+          </div>
+            </div>
+          
+        </div>
+        </div>
+        </div> 
+
+
+		<!-- start contact C.C.G. Communaute Centrafricaine du Ghana -->
+		
+		<!-- end contact -->
+		
+
+		<!-- start footer -->
+		<footer>
+			<div class="container">
+				<div class="row">
+					<div class="ft">
+					<div class="col-md-12 col-sm-16">
+			    <center>
+			        <h1></h1>
+			       
+			       <p><img src="images/logoDownCCG.png"></p>     
+			        
+			         
+					<p>La Communauté Centrafricaine du Ghana <br> Copyright  &copy; 2018 - 2019 | Tous droits réservés <br><a href="https://www.linkedin.com/in/jean-paul-zolabe-75515912b/" style="color:#fff; font-weight:bold;">Contactez le Développeur</a></p>
+					</div>
+				</div>
+				
+					<div class="col-md-12 col-sm-12">
+						
+						<p>Centrafrique<br><img src="images/flag.jpg">  
+					</div>
+				
+					</center>
+				</div>
+			</div>
+		</footer>
+		<!-- end footer -->
+
+
+		<!-- jQuery -->
+		<script src="js/jquery.js"></script>
+		<!-- bootstrap -->
+		<script src="js/bootstrap.min.js"></script>
+		<!-- isotope -->
+		<script src="js/isotope.js"></script>
+		<!-- images loaded -->
+   		<script src="js/imagesloaded.min.js"></script>
+   		<!-- wow -->
+		<script src="js/wow.min.js"></script>
+		<!-- smoothScroll -->
+		<script src="js/smoothscroll.js"></script>
+		<!-- jquery flexslider -->
+		<script src="js/jquery.flexslider.js"></script>
+		<!-- custom -->
+		<script src="js/custom.js"></script>
+
+        <script src="js1/vendor/jquery-1.11.0.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js1/vendor/jquery-1.11.0.min.js"><\/script>')</script>
+        
+        <script src="js1/plugins.js"></script>
+        <script src="js1/main.js"></script>
+
+        <script src="js/pluginsA.js"></script>
+
+        <!-- Google Map -->
+
+        <script type="text/javascript">
+        $(document).ready(function() {
+            
+            // mobile nav toggle
+            $('#nav-toggle').on('click', function (event) {
+                event.preventDefault();
+                $('#main-nav').toggleClass("open");
+            });
+            
+            $('#nav-toggle').on('click', function(event){
+            $('#main-nav').toggleClass("close"); 
+        });
+        </script>
+        
+        
+
+        
+	</body>
+</html>

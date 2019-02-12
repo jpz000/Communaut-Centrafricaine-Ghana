@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+	    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-119757906-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-119757906-1');
+</script>
+
+		<meta charset="utf-8">
+
+		<title>Enregistrez vous | Communauté Centrafricaine du Ghana </title>
+<!--
+
+Siteweb de la Communauté Centrafricaine du Ghana. Developpement par Jean Paul Zolabe.
+
+-->
+		<meta name="google-site-verification" content="5lWbnQWR5yZa9CMCVnwwJAjyXO4fXPWITpuNGQejct4" />
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="keywords" content="Communauté Centrafricaine du Ghana. Etudier au Ghana. CCGSEWA.COM. Etudier et vivre au Ghana. Etudier l'Anglais au Ghana. Etudier au Ghana. Cout des Etudes au Ghana. Ecoles de Langue au Ghana. Apprendre l'Anglais au Ghana. Liste des Universités au Ghana. Etudier a Accra. Centrafrique Etudes. Universités au Ghana. Etudier au Ghana. Informatique au Ghana, Logistique au Ghana, Commerce au Ghana, Marketing au Ghana, Comptabilité au Ghana. Etudiants francophones au Ghana. Jean Paul Zolabe. Etudier au Ghana. Centrafricains au Ghana. Vivre au Ghana. Etudier a Accra. Jean Paul Zolabe. Etudier au Ghana. Logement au Ghana. L'Anglais au Ghana. Centrafrique Ghana.">
+		<meta name="description" content="Enregistrez vous auprès de la C.C.G. pour etre mieux assisté | Communauté Centrafricaine du Ghana | Toutes les informations sur les études et la vie au Ghana mises a la disposition de tous les francophones par la Communauté Centrafricaine du Ghana - CCG.">
+
+		<!-- animate -->
+		<link rel="stylesheet" href="css/animate.min.css">
+		<!-- bootstrap -->
+		<link rel="stylesheet" href="css/bootstrap.min.css">
+		<!-- font-awesome -->
+		<link rel="stylesheet" href="css/font-awesome.min.css">
+		<!-- google font -->
+		<link href='http://fonts.googleapis.com/css?family=Raleway:400,300,700,800' rel='stylesheet' type='text/css'>
+		<!-- custom -->
+		<link rel="stylesheet" href="css/style.css">
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
+        
+        <link rel="shortcut icon" type="image/png" href="images/favicon.png"/>
+	</head>
+	<body data-spy="scroll" data-offset="50" data-target=".navbar-collapse">
+		<!-- start navigation C.C.G. Communaute Centrafricaine du Ghana-->
+		<div class="navbar navbar-fixed-top navbar-default" role="navigation">
+			<div class="container">
+				<div class="navbar-header">
+					<button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+					<a href="index.html"><i class="fa fa-home" style="font-size:20px;"></i></a>
+					</button>
+					<a href="index.html"><img src="images/ccgsewa-logo-nav.png" alt="logo de la CCG"></a>
+				</div>
+				
+				<div class="collapse navbar-collapse">
+				<div class="hl">
+					<ul class="nav navbar-nav navbar-right">
+						<li><a href="index.html" class="smoothScroll">ACCUEIL</a></li>
+						<li><a href="notre_communaute" class="smoothScroll">LA COMMUNAUTE</a></li>
+						
+					</ul>
+					</div>
+				</div>
+
+			</div>
+		</div>
+		<!-- end navigation C.C.G. Communaute Centrafricaine du Ghana-->
+
+		<!-- start le Ghana, Page consacree au ghana C.C.G. Communaute Centrafricaine du Ghana-->
+		
+		
+		<section id="welcomeBanner">
+          <img src="images/ccgsewa-leGhana-bg.png">
+        </section>
+
+
+<div id="neutral">
+			<div class="container">
+				<h1>Rejoignez nous</h1>				
+			</div>		
+		<div class="container">
+			<div class="textIntro">
+			<hr>
+			<div class="row">
+				<div class="col-md-8 col-sm-12">
+						<p>En vous enregistrant auprès de la C.C.G. vous entrez officiellement dans la grande famille Centrafricaine du Ghana. Votre enregistrement permettra au bureau de vous servir plus éfficacement ainsi qu'a toute la Communauté de mieux vous assister en cas de difficultés. Les données collectées seront également transmises au Ministère de l'Enseignement Superieur et au Ministère des Affaires Etrangères et pourront aider le gouvernement a mieux assister les Centrafricains du Ghana.</p>
+				</div>
+				<div class="col-md-4 col-sm-12"></div>
+			</div>
+			<hr>
+		</div>
+		<center>
+		<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeM_pwdViO895HW7h2Zx5z5_GhW-QLzcYrRBA4ih3eOr2SyAg/viewform?embedded=true" width="100%" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+		</center>
+		
+		<center>
+		<a href="notre_communaute">
+		<div class="btn"><p1>RETOUR A LA COMMUNAUTE</p1>
+        </div></a>
+        </center>
+        
+	    </div>
+	</div>
+
+<!-- start contact C.C.G. Communaute Centrafricaine du Ghana -->
+	
+
+		<!-- end contact -->
+		
+
+		<!-- start footer -->
+		<footer>
+			<div class="container">
+				<div class="row">
+					<div class="ft">
+					<div class="col-md-12 col-sm-16">
+			    <center>
+			        <h1></h1>
+			       
+			       <p><img src="images/logoDownCCG.png"></p>     
+			        
+			         
+					<p>La Communauté Centrafricaine du Ghana <br> Copyright  &copy; 2018 - 2019 | Tous droits réservés <br><a href="https://www.linkedin.com/in/jean-paul-zolabe-75515912b/" style="color:#fff; font-weight:bold;">Contactez le Développeur</a></p>
+					</div>
+				</div>
+				
+					<div class="col-md-12 col-sm-12">
+						
+						<p>Centrafrique<br><img src="images/flag.jpg">  
+					</div>
+				
+					</center>
+				</div>
+			</div>
+		</footer>
+		<!-- end footer -->
+
+
+		<!-- jQuery -->
+		<script src="js/jquery.js"></script>
+		<!-- bootstrap -->
+		<script src="js/bootstrap.min.js"></script>
+		<!-- isotope -->
+		<script src="js/isotope.js"></script>
+		<!-- images loaded -->
+   		<script src="js/imagesloaded.min.js"></script>
+   		<!-- wow -->
+		<script src="js/wow.min.js"></script>
+		<!-- smoothScroll -->
+		<script src="js/smoothscroll.js"></script>
+		<!-- jquery flexslider -->
+		<script src="js/jquery.flexslider.js"></script>
+		<!-- custom -->
+		<script src="js/custom.js"></script>
+
+        <script src="js1/vendor/jquery-1.11.0.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js1/vendor/jquery-1.11.0.min.js"><\/script>')</script>
+        
+        <script src="js1/plugins.js"></script>
+        <script src="js1/main.js"></script>
+
+        <script src="js/pluginsA.js"></script>
+
+        <!-- Google Map -->
+
+        <script type="text/javascript">
+        $(document).ready(function() {
+            
+            // mobile nav toggle
+            $('#nav-toggle').on('click', function (event) {
+                event.preventDefault();
+                $('#main-nav').toggleClass("open");
+            });
+            
+            $('#nav-toggle').on('click', function(event){
+            $('#main-nav').toggleClass("close"); 
+        });
+        </script>
+        
+        
+
+        
+	</body>
+</html>

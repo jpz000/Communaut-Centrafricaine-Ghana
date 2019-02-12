@@ -1,0 +1,5265 @@
+/* Site web de la Communauté Centrafricaine du Ghana - Conception: Jean Paul Zolabe - Droits reserves. */
+/* On a qu'UN SEUL CENTRAFRIQUE, aimons le ! */
+
+body
+  {
+    background: #ffffff;
+        font-family: 'bookman', sans-serif;
+    font-weight: 400;
+        position: relative;
+        width: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+  }
+
+
+
+h2,  h4, h1
+    {
+        font-weight: bold;
+        font-family: 'raleway', sans-serif;
+    }
+h3 
+  {
+    font-weight: bold;
+    color: #fb3d0a;
+  }
+
+p
+    {
+        line-height: 30px;
+        color: #5a5a5a;
+        text-align:0px;
+        font-weight:bold;
+        font-size: 16px;
+        letter-spacing: 0.50px;
+        font-weight:300;
+
+
+    }
+
+p2
+   {
+    font-size: 9.5px;
+    font-weight: bold;
+    font-style: italic;
+   }
+
+
+p3
+   {
+    font-size: 12px;
+    font-weight: bold;
+    font-style: italic;
+   }   
+
+ul {
+  list-style: none;
+  margin: 0px;
+}
+
+
+
+img {
+  max-width:100%;
+  max-height: 100%;
+  wigth:auto;
+  
+ 
+}
+
+img:hover {
+  cursor:;
+  opacity: ;
+}
+
+
+  hr{
+    alignment-baseline: left;
+    border-color:#c0c0c0;
+    border-width:2px;
+    width: 10%;
+    border-left-style: left; 
+    margin-left: 0; padding-bottom: 0px;   
+}  
+
+
+
+ /* unvisited link */
+a:link {
+    color:#032040;
+    font-weight:bold;
+    
+}
+
+/* visited link */
+a:visited {
+    color:#032040;
+    font-weight:bold;
+}
+
+/* mouse over link */
+a:hover {
+    color:#032040 ;
+    font-weight:bold;
+}
+
+/* selected link */
+a:active {
+    color:#032040 ;
+} 
+/* start all section */
+#accueilCCG, #leGhana, #divider, #etudierGhana, #vieGhana, #divider2,
+ #communauteCentrafricaine,  #contact, #etoile,
+    {
+        padding-top: 100px;
+        padding-bottom: 100px;
+        position: relative;
+    }
+/* end all section */
+
+/* start nagivation */
+.navbar-default
+    {
+        background: #fff;
+        border: none;
+        box-shadow: 0px 2px 8px 0px rgba(50, 50, 50, 0.08);
+        margin: 0 !important;
+        padding: 0;
+    }
+    
+.navbar-default-2
+    {
+        background:#fff;
+        border: none;
+        box-shadow: 0px 2px 8px 0px rgba(50, 50, 50, 0.08);
+        margin: 0 !important;
+        padding: 0;
+    }    
+    
+.navbar-default-2 .navbar-nav li a
+    {
+        font-size: 15px;
+        font-weight: bold;
+        line-height: 15px;
+        color: #032040;
+    }
+.navbar-default-2 .navbar-nav li a:hover
+    {
+        color: #ca0429;
+        background-color:transparent;
+    }
+    
+.navbar-default-2 .navbar-nav .erg
+
+{
+    background-color:#ca0429; 
+    padding-bottom:5px;
+}
+
+.navbar-default-2 .navbar-nav .erg:hover
+
+{
+    background-color:#032040; 
+}
+
+
+.navbar-default .navbar-nav .erg
+
+{
+    background-color:#ca0429; 
+    padding-bottom:5px;
+}
+
+.navbar-default .navbar-nav .erg:hover
+
+{
+    background-color:#032040; 
+}
+    
+.navbar-default .navbar-brand
+    {
+        padding-top: 5px;
+        padding-bottom: 40px;
+    }
+.navbar-default .navbar-nav li a
+    {
+        font-size: 15px;
+        font-weight: bold;
+        line-height: 15px;
+        color: #032040;
+    }
+    
+.navbar-default .navbar-nav .fa
+    {
+        font-size: 12px;
+        font-weight: bold;
+        line-height:0px;
+        color: #fff;
+        padding:10px;
+        border-radius:30px;
+        background-color:#032040;
+    }
+    
+.navbar-default .navbar-nav .fa:hover
+{
+    background-color:#035cf0;
+}
+    
+.navbar-default-2 .navbar-nav li a
+    {
+        font-size: 15px;
+        font-weight: bold;
+        line-height: 15px;
+        color: #032040;
+    }
+    
+.navbar-default .navbar-nav li a:hover
+    {
+        color: #ca0429;
+    }
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #ca0429;
+  background-color: transparent;
+  text-transform: 
+}
+
+
+.navbar-default-2 .navbar-nav > .active > a,
+.navbar-default-2 .navbar-nav > .active > a:hover,
+.navbar-default-2 .navbar-nav > .active > a:focus {
+  color: #ca0429;
+  background-color: transparent;
+    
+}
+.navbar-default .navbar-toggle
+    {
+        border: none;
+        padding-top: 10px;
+    }
+.navbar-default .navbar-toggle .icon-bar
+    {
+        background: #032040;
+        border-color: transparent;
+    }
+.navbar-default .navbar-toggle:hover{color: #032040;}
+.navbar-default .navbar-toggle:focus { background-color: transparent; }
+
+
+.navbar-header img
+{
+    padding-top:5px;
+    font-weight:bold;
+}
+/* end navigation */
+
+/* start accueilCCG */        
+#accueilCCG
+  {
+      
+      background-image: url(../images/ccgsewa-accueil-bg.jpg);
+      background-color: #032040;
+      background-size: cover;
+      width: 100%;
+      background-repeat: no-repeat;
+      padding: 10% 0px 10% 0px;
+      margin-top: 50px;
+      padding-bottom:220px;
+      
+  }
+
+#accueilCCG h1 
+{
+  
+  text-align:;
+  color:#fff;
+  margin-left:0px;
+  font-size:34px;
+  padding-top:20px;
+  text-align:center;
+
+}
+
+
+#accueilCCG hr
+{
+   
+    alignment-baseline: central;
+    border-color:#c0c0c0;
+    border-width:1px;
+    width: 10%;
+    border-left-style: center; 
+    margin-left: 100px; 
+    padding-left:300px;
+    padding-bottom: 20px;
+    align:
+}
+
+#accueilCCG .go-down
+{
+  font-size: 80px;
+  color: #c7334e;
+  padding-top: 80px;
+}
+
+#accueilCCG .go-down:hover
+
+{
+  color: #fff;
+}
+
+#accueilCCG h2 
+{
+  margin-left: 50px;
+  font-weight: normal;
+  color: #032040;
+}
+
+#accueilCCG p
+
+{
+  color: #fff;
+  margin-left:px;
+  text-align: center;
+  font-size: 20px;
+  font-weight:bold;
+}
+
+#accueilCCG 
+
+.flexslider {
+  margin: 0 0 0px;
+  background: #fff;
+  padding: 0;
+  position: relative;
+  zoom: 1;
+  background-color: #fff;
+  overflow: hidden;
+  margin: 0;
+}
+.flexslider .slides {
+  padding: 0;
+  zoom: 1;
+}
+.flexslider .slides img {
+  width: 100%;
+  min-width: 648px;
+  height:100%;
+  display: block;
+  transition: 0.1s;
+}
+.flexslider .slides > li {
+  display: none;  
+  padding: 0;
+  position: relative;
+  -webkit-backface-visibility: hidden;
+}
+.flexslider img {
+  position: relative;
+  width: 100%;
+}
+.slider-caption {
+  color:white;
+  margin: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-transform:;
+  z-index: 7;
+  width: 100%;
+  height: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+/* end accueilCCG */
+
+
+
+/* start LeGhana */
+
+
+#welcomeBanner {
+  margin: 0 0 60px;
+  background: #fff;
+  padding: 0;
+  position: relative;
+  zoom: 1;
+  background-color: #de4545;
+  overflow: hidden;
+  margin: 0;
+}
+#welcomeBanner  {
+  padding: 0;
+  zoom: 1;
+}
+#welcomeBanner img {
+  width: 100%;
+  min-width: 648px;
+  min-height: 150px;
+  display: block;
+}
+
+#welcomeBanner img {
+  position: relative;
+  width: 100%;
+}
+
+
+/* end LeGhana */
+
+/* start first */
+
+
+.flexslider {
+  margin: 0 0 0px;
+  background: #fff;
+  padding: 0;
+  position: relative;
+  zoom: 1;
+  background-color: #f5f6f7;
+  overflow: hidden;
+  margin: 0;
+}
+
+
+
+#first {
+
+  background-color: #f5f6f7;
+  padding-bottom: 30px;
+  padding-top: 50px;
+
+}
+
+
+
+#first p {
+
+    color: #7a7a7a;
+    font-size:18px;
+    line-height: 30px;  
+    padding-bottom: 20px;
+}
+
+
+#first .col-md-4 p
+{
+    color:#f5f6f7
+    font-size:0px;
+    
+}
+
+
+#first .col-md-4 {
+  padding-bottom: 20px;
+
+}
+
+#first .col-md-8 
+{
+
+  text-align: center;
+}
+
+
+#second
+{
+  background-color: #f5f6f7;
+  padding-bottom: 20px;
+}
+
+
+#second h1  
+
+{
+  font-size: 40px;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom:70px;
+  color: #032040;
+}
+
+
+
+#second p {
+
+    color: #7a7a7a;
+    font-size:18px;
+    line-height: 30px;  
+    padding-bottom: 10px;
+    font-weight: bold;
+    text-align: center;
+    
+
+}
+
+
+#second hr 
+{
+    alignment-baseline: central;
+    border-color:#c0c0c0;
+    border-width:1px;
+    width: 10%;
+    border-style:; 
+    margin-right: 100px;
+    margin-left: 150px;
+    padding-bottom: 20px;
+} 
+
+ #second  .btn
+{
+  background-color: #ca0429;
+  margin:10px;
+  margin-bottom:50px;
+  padding: 14px 10px 10px 10px;
+  height: 50px;
+  margin-top: 50px;
+
+}
+
+
+#second .btn:hover 
+{
+    background-color:#de3939;
+}
+
+
+ #second .btn p1
+{
+  color: #fff;
+  font-size: 15px;
+  font-weight: bold;
+  padding-top: 0px;
+}
+
+
+
+#PageOptions
+
+{
+    
+    background-color:#fff;
+}
+
+
+ #PageOptions  .btn
+{
+  background-color: #ca0429;
+  margin:10px;
+  margin-bottom:0px;
+  padding: 14px 10px 10px 10px;
+  height: 50px;
+  margin-top: 50px;
+
+}
+
+
+#PageOptions .btn:hover 
+{
+    background-color:#de3939;
+}
+
+
+ #PageOptions .btn p1
+{
+  color: #fff;
+  font-size: 15px;
+  font-weight: bold;
+  padding-top: 0px;
+}
+
+.guide 
+{
+  background-image:;
+  background-color: #032040;
+  padding-top:40px;
+  padding-bottom: 40px;
+
+}
+
+.guide .col-md-6 img
+{
+  margin-left: 50px;
+  margin-bottom:px;
+  margin-top:10px;
+  width: 50%;
+}
+
+
+ .guide p
+{
+  font-size:25px;
+  padding: 0px;
+  line-height:35px;
+  font-weight: bold;
+  padding-bottom:px;
+  padding-right: px;
+  color: #b9eaff;
+
+}
+
+
+.guide h4
+{
+  color: #104074;
+  font-size: 40px;
+  font-style: italic;
+  line-height: 10px;
+  padding-top: 10px;
+}
+
+.talk
+{
+  padding-top:0px;
+  margin-left: -80px;
+  margin-right: 50px;
+}
+
+#informations 
+{
+  background-color: #032040;
+  text-align:;
+  padding-bottom: 0px;
+  padding-top: 0px;
+
+  
+}
+
+#informations .row
+
+{
+    margin:0px;
+}
+
+#informations .col-md-8
+
+{
+  background-image: url('../images/ccgsewa-informations.jpg');
+  background-size: cover;
+  height:500px;
+}
+
+#informations .col-md-4
+
+{
+  padding-top: 50px;
+  padding-left: 60px;
+}
+
+
+#informations h2
+{
+  color: #fff;
+  padding-bottom: 30px;
+}
+
+#informations .col-md-4 p
+{
+  color: #d0e6fe;
+  font-size: 15px;
+  padding-bottom: 10px;
+  font-weight: bold;
+}
+
+
+#informations .container
+{
+    margin-left:px;
+    margin-right:px;
+}
+
+#informations h1  
+
+{
+  font-size: 40px;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom:70px;
+  color: #fff;
+}
+
+#informations .col-md-3
+{
+  padding-bottom: 30px;
+}
+
+#informations img
+{
+  padding-left:20px;
+  padding-right: 20px;
+}
+
+#informations h4
+{
+  color: #fff;
+  font-size: 18px;
+  line-height: 15px;
+}
+
+#informations p
+{
+  font-size: 16px;
+  color: #9a9a9a;
+  line-height: 15px;
+}
+
+
+
+#dividerCCG img
+{
+    width:100%;
+    height:100%;
+}
+
+#institutions 
+ {
+  background-image: url('../images/ccgsewa-institutionsGhana-bg.jpg');
+  background-color:#141414;
+  margin-top:0px;
+  padding-top: 20px;
+  padding-bottom:70px;
+  margin: 0;
+
+ }
+
+.superieurList
+{
+  background-color: #ca0429;
+  padding-bottom: 60px;
+  padding-top: 40px;
+  margin:30px;
+  border-radius: 10px;
+  margin-top: 60px;
+
+}
+
+.superieurList h4
+
+{
+  color: #fff;
+  text-align:;
+  margin: 30px;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 20px;
+  padding-bottom: 30px;
+}
+
+
+
+.superieurList a
+{
+  color:#032040;
+  font-weight: bold;
+  text-align: center;
+  font-size: 15px;
+}
+
+
+
+ .listSup
+{
+  background-color: #fff;
+  border-radius: 5px;
+  margin-right: 60px;
+  margin-left: ;
+  text-align:center;
+  margin-bottom: 30px;
+  padding-top: px;
+  padding-bottom:px;
+}
+
+
+.listSup:hover
+{
+  background-color: #032040;
+  
+}
+
+.listSup a:hover
+{
+  color: #fff;
+}
+
+
+#tab1
+{
+  background-color: 
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+
+#tab1 h4
+{
+  color: #032040;
+  font-size:40px;
+  text-align: center;
+  font-style: italic;
+  padding: 20px;
+  margin: 60px;
+
+}
+
+#tab1 .wlcSup
+{
+  background-color: #fff;
+  border-radius: 10px;
+  margin-top: 130px;
+  margin-left: 50px;
+  margin-right: 30px;
+  opacity: 0.7;
+}
+
+
+
+#first-tab-groupq .text-content
+{
+  background-color:#fff;
+  margin-left:0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  margin: 30px;
+  margin-top:80px;
+  padding-bottom:10px;
+  padding-top: 50px;
+  border-radius: 10px;
+}
+
+#first-tab-groupq .text-content h4
+{
+  color: #032040;
+  padding-left:40px;
+  margin-top: 0px;
+
+}
+
+
+
+
+#first-tab-groupq  .text-content p
+{
+  margin-left: 40px;
+  margin-right: 40px;
+  padding: 0px;
+  text-align: justify;
+}
+
+
+
+/* start leGhana */
+
+
+#GhanaIntro hr
+{
+  padding-bottom: px;
+}
+
+
+#GhanaIntro img
+{
+    
+}
+
+
+#GhanaIntro
+{
+    padding-bottom:30px;
+}
+#donneesGhana {
+  background-color: #002155;
+  padding-top:50px;
+  margin-top: 40px;
+  padding-bottom: 0px;
+  padding-right: 20px;
+  padding-left: 20px;
+  text-align: center;
+  align-items: center;
+
+}
+
+#donneesGhana .row {
+
+  padding-bottom: 0px;s
+
+}
+
+#donneesGhana p
+{
+  color: #7088ae;
+  font-weight: bold;
+  font-size: 15px;
+
+}
+
+
+#leGhana 
+{
+  padding-bottom:10px;
+  padding-top:20px;
+  background-color:#f5f6f7;
+}
+
+
+#neutral
+{
+  padding-bottom:0px;
+  padding-top:0px;
+  background-color:#f5f6f7;
+}
+
+#leGhana h1
+    {
+        color: #032040;
+        font-size: 60px;
+        margin-right: 20px;
+        line-height: 60px;
+        font-weight: bold;
+        text-align:left;
+        padding-top: 20px;
+        padding-bottom: 0px;
+    }
+
+#neutral h1
+    {
+        color: #032040;
+        font-size: 60px;
+        margin-right: 20px;
+        line-height: 60px;
+        font-weight: bold;
+        text-align:left;
+        padding-top: 20px;
+        padding-bottom: 0px;
+    }
+
+
+#leGhana h2 
+
+{   padding-bottom:20px;
+    color:;
+    font-size: 35px;
+
+
+}
+
+
+#img-data
+{
+  background-color: #f5f6f7;
+  padding-top: 30px;
+  padding-bottom: 70px;
+}
+
+#img-data .content
+{
+  border: 2px solid #b0b0b0;
+  background-color: #fff;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+#img-data .content h3
+{
+  text-align:center;
+  color: #323232;
+}
+
+#img-data .content p
+{
+  margin: 20px;
+  color: #7a7a7a;
+  text-align:;
+  font-size:14px;
+
+}
+
+
+#ghanaList .item
+
+{
+  border: 1px solid #ccc;
+  border-radius:7px;
+  margin:40px;
+  margin-bottom:40px;
+  background-color:#f9f9f9;
+  box-shadow: 0px 4px 5px #f1f1f1 ;
+  padding:0px;
+  margin-top:30px;
+}
+
+#ghanaList .item:hover
+
+{
+  background-color: #fff;
+}
+
+#ghanaList .item .active
+
+{
+  background-color: #fff;
+}
+
+#leGhana .list-principal
+{
+  background-color: #ef460b;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+#ghanaList h3
+{
+  font-size: 20px;
+  font-weight: bold;
+  color: #444;
+  text-align: center;
+
+}
+
+#ghanaList h4
+{
+    text-align:;
+    padding-bottom:20px;
+}
+
+#ghanaList 
+{
+    padding-bottom:0px;
+    padding-top: 0px;
+    margin-left:0px;
+    padding-bottom:30px;
+    background-color:#f5f6f7;
+}
+
+
+#ghanaList img 
+
+
+#leGhana p
+
+{
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-bottom:0px;
+    line-height:30px;
+    font-weight:bold;
+    letter-spacing: em;
+    font-size: 18px;
+    text-align:justify;
+}
+
+#neutral p
+
+{
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-bottom:0px;
+    line-height:30px;
+    font-weight:;
+    letter-spacing: em;
+    font-size: 18px;
+    text-align:justify;
+    background-color:#f5f6f7;
+}
+
+#leGhana p1 
+
+{ font-size: 22px;
+  font-style:
+  font-weight: bold;
+  text-align: center;
+  padding-top: 12px;
+  color: #01948b;
+
+}
+
+#iframe
+
+{
+    padding-top:40px;
+}
+#leGhana .container .row 
+{
+    padding-bottom: 0px;
+    padding-top: 0px;
+
+}
+
+
+#leGhana .col-md-8 .btn
+{
+  background-color: #ca0429;
+  margin:10px;
+  margin-bottom: 30px;
+  padding: 14px 10px 10px 10px;
+  height: 50px;
+  margin-top: 40px;
+  box-shadow: 0px 4px 5px #fff;
+
+
+}
+
+
+#leGhana .col-md-8 .btn:hover 
+{
+    background-color:#de3939;
+}
+#leGhana .col-md-8 .btn p1
+{
+  color: #fff;
+  font-size: 15px;
+  font-weight: bold;
+  padding-top: 0px;
+}
+
+
+#second-tab-groupg p
+{
+    text-align:justify;
+}
+
+
+#second-tab-groupg 
+{
+    margin-bottom:15px;
+}
+
+#second-tab-grouppp 
+{
+    padding-top:10px;
+    padding-bottom:20px;
+}
+
+
+#second-tab-grouppp h4
+
+{
+  padding-bottom:10px;
+  padding-top:30px;
+}
+
+#economie 
+
+{
+  background-color: #f9f9f9;
+  box-shadow: 0px 4px 5px #a0a0a0;
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: 60px;
+  padding-top: 30px;
+}
+
+#economie img
+{
+        margin-top: 20px;
+        margin-bottom:px;
+        border: 1px solid #7a7a7a;
+        display: inline-block;
+        padding: 4px;
+        padding-top:px;
+}
+
+#economie .col-md-12
+{
+    padding-top:40px;
+    margin-bottom:50px;
+}
+
+
+#histoire
+
+{
+  background-color: #f9f9f9;
+  box-shadow: 0px 4px 5px #a0a0a0;
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: 60px;
+  padding-top: 30px;
+}
+
+#histoire img
+{
+        margin-top: 25px;
+        margin-bottom:px;
+        border: 1px solid #7a7a7a;
+        display: inline-block;
+        padding: 4px;
+        padding-top:px;
+}
+
+#histoire .col-md-12
+{
+    padding-top:40px;
+}
+
+#societe
+
+{
+  background-color: #f9f9f9;
+  box-shadow: 0px 4px 5px #a0a0a0;
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: 60px;
+  padding-top: 30px;
+}
+
+#societe img
+{
+        margin-top: 25px;
+        margin-bottom:px;
+        border: 1px solid #7a7a7a;
+        display: inline-block;
+        padding: 4px;
+        padding-top:px;
+}
+
+#societe .col-md-12
+{
+    padding-top:40px;
+}
+
+
+#jaune 
+{
+  background: url('../images/etudes.jpg');
+}
+
+/* end leGhana */
+
+/* start etudierGhana */
+
+
+
+#second-tab-groupp 
+{
+    padding-top:0px;
+    padding-bottom:0px;
+}
+
+#systemeEducatif 
+{
+    padding-top:40px;
+}
+
+#systemeEducatif img
+{
+        margin-top: 45px;
+        margin-bottom:px;
+        border: 1px solid #7a7a7a;
+        display: inline-block;
+        padding: 4px;
+        padding-top:px;
+}
+
+#ecoleslangue
+{
+    padding-top:40px;
+}
+
+#ecolesLangue img
+{
+    padding:100px;
+    margin: 100px
+}
+
+.text-etudier img
+{
+    padding-top:20px;
+    padding-bottom:40px;
+}
+
+#inscriptions
+{
+    padding-top:40px;
+}
+
+
+
+#inscriptions img
+{
+        margin-top: 45px;
+        margin-bottom:px;
+        border: 1px solid #7a7a7a;
+        display: inline-block;
+        padding: 4px;
+        padding-top:px;
+}
+#coutEtudes
+{
+    padding-top:40px;
+}
+
+#guideEtudierGhana
+{
+    padding-top:40px;
+}
+#second-tab-groupp h4
+
+{
+  padding-bottom: 10px;
+  padding-top:20px;
+}
+
+#menuEtudierCCG
+{
+  background-color: #032040;
+  padding-bottom: 60px;
+  padding-top: 40px;
+  margin-bottom:0px;
+
+}
+
+#menuEtudierCCG h4
+ {
+  color: #fff;
+  font-size:15px;
+  text-align: center;
+  padding-bottom: 30px;
+  font-weight: bold;
+  padding: 30px;
+  padding-top: 5px;
+
+ }
+
+
+
+
+
+
+#etudierGhana p
+{
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-bottom:0px;
+    line-height:30px;
+    font-weight:bold;
+    letter-spacing: em;
+    font-size: 18px;
+    text-align:justify;
+}
+
+
+#leGhana p
+{
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-bottom:0px;
+    line-height:30px;
+    font-weight:bold;
+    letter-spacing: em;
+    font-size: 18px;
+    text-align:justify;
+}
+
+
+#menuEtudierCCG .list-itemA  img {
+  border: 2px solid #fff;
+  border-bottom: 1px solid #fff;
+  border-top: 1px solid #fff;
+  border-radius: 10px;
+  font-size: 58px;
+  color: #fff;
+  text-align: ;
+  vertical-align: middle;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  padding: 25px;
+  background-color: #021122;
+
+
+}
+
+
+#menuEtudierCCG .list-itemB img  {
+  border: 1px solid #fff;
+  border-bottom: 1px solid #fff;
+  border-top: 1px solid #fff;
+  border-radius:10px;
+  font-size: 60px;
+  color: #fff;
+  text-align:;
+  vertical-align: middle;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  padding: 25px;
+  background-color: #021122;
+
+}
+
+#menuEtudierCCG .list-itemC img {
+  border: 1px solid #fff;
+  border-bottom: 1px solid #fff;
+  border-top: 1px solid #fff;
+  border-radius: 10px;
+  font-size: 60px;
+  color: #141414;
+  text-align: center;
+  vertical-align: middle;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  padding: 25px;
+  background-color: #021122;
+
+}
+
+#menuEtudierCCG  .list-itemD img {
+  border: 1px solid #fff;
+  border-bottom: 1px solid #fff;
+  border-top: 1px solid #fff;
+  border-radius: 10px;
+  font-size: 60px;
+  color: #141414;
+  text-align: center;
+  vertical-align: middle;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  padding: 25px;
+  background-color: #021122;
+
+}
+
+
+#menuEtudierCCG .list-itemA img:hover
+{
+    background-color:#0c3b71;
+}
+
+
+#menuEtudierCCG .list-itemB img:hover
+{
+    background-color:#0c3b71;
+}
+
+
+
+#menuEtudierCCG .list-itemC img:hover
+{
+    background-color:#0c3b71;
+}
+
+
+#menuEtudierCCG .list-itemD img:hover
+{
+    background-color:#0c3b71;
+}
+
+
+
+#menuEtudierCCG .active .list-itemA img
+{
+    background-color:#0c3b71;
+}
+
+
+#menuEtudierCCG .active .list-itemB img
+{
+    background-color:#0c3b71;
+}
+
+
+#menuEtudierCCG .active .list-itemC img
+{
+    background-color:#0c3b71;
+}
+
+#menuEtudierCCG .active .list-itemD img
+{
+    background-color:#0c3b71;
+}
+
+
+#etudierGhana 
+{
+  background-color: #f5f6f7;
+  padding-bottom:40px;
+}
+
+#etudierGhana h2
+{
+    padding-bottom: 20px;
+    color: #25385e;
+    padding-top: 30px;
+
+}
+
+#etudierGhana h1
+    {
+        color: #032040;
+        font-size: 60px;
+        margin-right: 20px;
+        line-height: 60px;
+        font-weight: bold;
+        text-align:left;
+        padding-top: 30px;
+        padding-bottom:0px;
+}
+
+
+#etudierGhana hr
+
+{
+  padding-bottom: 0px;
+}
+#etudierGhana .row
+{
+    padding-bottom: 0px;
+}
+
+#etudierGhana img
+
+{
+        
+}
+
+
+#coutEtudes img
+{
+        margin-top: 20px;
+        border: 1px solid #7a7a7a;
+        display: inline-block;
+        padding: 4px;
+}
+
+
+#coutEtudes .left-img 
+{
+  margin-bottom: 50px;
+}
+#menuEtudierCCG li 
+{
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+#inscriptions .fa 
+{
+  color: #b0b0b0;
+  font-size: 40px;
+  padding-top:30px;
+}
+
+#guideEtudierGhana .fa
+
+{
+  color: #b0b0b0;
+  font-size:40px;
+  padding-top:30px;
+}
+
+#ecoleslangue .fa
+
+{
+  color: #b0b0b0;
+  font-size:40px;
+  padding-top:30px;
+}
+
+.text-tiyee
+{
+  background-color: #032040;
+  background-image: url('../images/ccgsewa-tiyee-bg.jpg');
+  padding-bottom: 60px;
+  padding-top: 40px;
+  margin:px;
+  margin-left:150px;
+  margin-right:150px;
+  border-radius: 10px;
+  margin-top: 50px;
+
+}
+
+.text-tiyee p
+{
+    margin-left:70px;
+    margin-right:70px;
+    margin-top:30;
+    color: #fff;
+    padding-left:50px;
+    padding-right: 50px;
+    font-weight: bold;
+}
+
+.text-tiyee h5
+{
+    text-align:center;
+    color: #fff;
+    padding-bottom: 20px;
+    font-size: 25px;
+    font-weight:bold;
+}
+
+#coutEtudes .fa
+
+{
+  color: #b0b0b0;
+  font-size:40px;
+  padding-top:30px;
+}
+
+#inscriptions .fa:hover 
+{
+  color:#de3939;
+  
+}
+
+
+#coutEtudes .fa:hover 
+{
+  color:#de3939;
+  transition: 
+}
+
+#ecolesLangue .fa:hover 
+{
+  color:#de3939;
+  transition: 
+}
+
+#systemeEducatif .fa:hover 
+{
+  color:#de3939;
+  transition: 
+}
+
+
+#etudierGhana .tabss .active img{
+  background-color: #032040;
+  color:#141414;
+  border-color:;
+}
+
+#etudierGhana .tabss .active h3{
+  
+  color:#999;
+  border-color:;
+}
+
+
+#etudierGhana .tabss img:hover {
+  background-color: #032040;
+  border: 1px solid #fff;
+
+}
+
+.text-etudier
+
+{
+  padding-bottom: 30px;
+  padding-top: 0px;
+}
+
+#wop p 
+
+{
+  color: #   
+}
+
+#wop 
+
+{
+    padding-top: 0px;
+    border-top: 1px solid #999;
+
+}
+
+#wop h2
+
+
+{   color: #032040;
+    font-weight: bold;
+    text-align: center;
+    font-size: 24px;
+}
+
+#wop img
+
+{
+     border: 1px solid #202020;
+        display: inline-block;
+        padding: 10px;
+        transition: all 0.4s ease-in;
+        align-content: center;
+}
+
+.textIntro
+{
+  padding-bottom:;
+  padding-top:0px;
+}
+
+.textIntro p
+{
+  font-weight: bold;
+  text-align:;
+}
+
+.GhanaIntrp
+{
+    padding-top:20px;
+}
+
+.GhanaIntro p
+{
+    font-weight:bold;
+}
+/* end etudierGhana  */
+
+/* start vieGhana */
+
+.life 
+
+{
+  background-image: url(../images/ccgsewa-vieGhana-bg.jpg);
+  background-color:#141414;
+  padding-bottom: 100px;
+  padding-top: 100px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.accra12 {
+  background-image:
+}
+
+
+.life :focus {
+  color: #fff;
+}
+
+
+
+#vieGhana 
+{
+
+background-color: #f5f6f7;
+padding-top: 0px;
+padding-bottom: 30px;
+}
+
+#vieGhana .intro-vieGhana hr
+
+{
+  padding-bottom: 0px;
+}
+
+#vieGhana .intro-vieGhana p
+
+{
+    padding-bottom: 0px ;
+    line-height:30px;
+    font-weight: bold;
+    letter-spacing: em;
+    font-size: 18px;
+    text-align: justify;
+}
+
+
+#vieGhana  .intro-vieGhana 
+
+{
+
+  padding-bottom: 0px;
+  background-color:;
+}
+
+
+
+#vieGhana h1
+
+{
+        color:#032040;
+        font-size: 60px;
+        margin-right: 20px;
+        line-height: 60px;
+        font-weight: bold;
+        text-align:left;
+        padding-top: 30px;
+        padding-bottom:0px;
+}
+
+
+
+#vieGhana p
+
+{
+  margin-left:0px;
+  font-size: 18px;
+  line-height: 30px;
+
+}
+
+#vieGhana .img 
+{
+  padding-top: 0px;
+}
+
+#vieGhana .text-vieGhana 
+{
+  padding-bottom: 25px;
+  padding-top: 20px;
+  margin-right: 10px;
+}
+
+#vieGhana .fa {
+
+  font-size: 40px;
+  color: #777;
+
+}
+
+#vieGhana .fa:hover 
+{
+  color: #de3939;
+}
+
+#vieGhana .row 
+{
+  padding-bottom: 0px;
+  padding-top: 0px;
+}
+
+
+
+
+.life .tabs li a {
+  text-decoration: none;
+  color: #121212;
+
+}
+
+
+
+.life .tabs .active .list-item 
+
+{
+  background-color: #fff;
+  opacity: 0.5;
+
+  
+  
+}
+
+.life .tabs .active .list-item h4
+
+{
+  color: #353535;
+
+  
+  
+}
+
+
+.life .tabs .list-item :hover {
+  
+  color: #ca0429;
+  opacity: 0.9;
+  text-align: center;
+  padding: 0px 0px;
+  margin: 10px 15px;
+  transition: all 0.5s;
+
+
+
+}
+
+
+
+.life .tabs .col-md-4:hover
+
+{
+  
+} 
+.life .tabs .list-item
+{
+  color: #fff;
+}
+
+.life .list-item {
+  background-color: #fff;
+  text-align: center;
+  padding: 10px 10px;
+  margin: 20px 5px;
+  transition: all 0.5s;
+  border:px solid ;
+  border-radius: 5px;
+  
+  
+
+}
+
+
+.life .list-item h4 {
+  margin-top: 20px;
+  margin-bottom: 0px;
+  font-size: 40px;
+  font-weight: 700;
+  text-transform: ;
+  color: #252525;
+}
+
+.life .tab-content-services {
+  margin-top:
+}
+
+#logement img
+{
+        margin-top: 60px;
+        margin-bottom:px;
+        border: 1px solid #7a7a7a;
+        display: inline-block;
+        padding: 4px;
+        padding-top:px;
+}
+
+
+#logement .col-md-12
+{
+    padding-top:30px;
+}
+
+#transport img 
+{
+  border:1px solid #7a7a7a;
+  padding: 4px;
+  margin-top:60px;
+}
+
+#sante img
+{
+  padding-top: 30px;
+}
+
+#cuisine img 
+{
+  border: 1px solid #7a7a7a;
+  padding: 4px;
+  margin-top:45px;
+}
+
+#activites img 
+{
+  border: 1px solid #7a7a7a;
+  padding: 4px;
+  margin-top:30px;
+}
+
+#transport .fa 
+{
+  color: #777;
+  font-size: 40px;
+  padding-top:30px;
+}
+
+#logement .fa 
+{
+  color: #777;
+  font-size: 40px;
+  padding-top:30px;
+}
+
+#sante .fa 
+{
+  color: #777;
+  font-size: 40px;
+  padding-top:30px;
+}
+
+#cuisine .fa 
+{
+  color: #777;
+  font-size: 40px;
+  padding-top:30px;
+}
+
+#activites .fa 
+{
+  color: #777;
+  font-size: 40px;
+  padding-top:30px;
+}
+
+#conseils .fa 
+{
+  color: #777;
+  font-size: 40px;
+  padding-top:30px;
+}
+
+#conseils img
+{
+    padding-bottom:30px;
+}
+
+#cuisine .ghanaFood 
+{
+  padding-top: 20px;
+}
+
+#conseils  
+{
+
+  padding-top: 60px;
+  background-color: 
+  
+}
+
+#conseils p
+
+{
+  font-weight: bold;
+  font-size: 15px;
+  font-style: italic;
+  padding-bottom: 20px;
+}
+
+.col-xs-15,
+.col-sm-15,
+.col-md-15,
+.col-lg-15 
+{
+    position: relative;
+    min-height: 1px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.col-xs-15 {
+    width: 20%;
+    float: left;
+}
+
+#logement
+{
+    padding-top:60px;
+    padding-bottom:50px;
+}
+
+#transport 
+{
+    padding-top:60px;
+    padding-bottom:50px;
+}
+
+#sante
+{
+    padding-top:60px;
+    padding-bottom:50px;
+}
+
+#cuisine
+{
+    padding-top:60px;
+    padding-bottom:50px;
+}
+
+#activites 
+{
+    padding-top:60px;
+    padding-bottom:50px;
+}
+
+#conseils
+{
+    padding-top:60px;
+    padding-bottom:50px;
+}
+
+
+#ccgCom
+{
+  margin-top:0px;
+  background-color: #fff;
+}
+
+#ccgCom .col-md-5
+{
+  
+  width:%;
+  height:%;
+  background: url('../images/ccgsewa-decouvrezNous-bg.jpg');
+  background-color:#032040;
+  background-repeat: no-repeat;
+  margin: px;
+  padding-top: 70px;
+  padding-bottom: 10px;
+  padding-left: 50px;
+  padding-right: 80px;
+
+}
+
+#ccgCom .col-md-5 p
+{
+  color: #fff;
+  padding-top: 20px;
+}
+
+#ccgCom .row
+{
+  margin: 0 auto;
+}
+
+#ccgCom h2
+{
+    color:#fff;
+}
+
+#ccgCom .col-md-5 hr
+    {
+      border-color: #fff;
+      alignment-baseline: left;
+        border-width:3px;
+        width: 10%;
+        border-left-style: left; 
+        margin-left: 0; 
+        padding-bottom: 0px;
+        padding-top: 0px; 
+    }
+
+#ccgCom .col-md-7 hr
+    {
+      border-color: #3c3b3b;
+      alignment-baseline: central;
+        border-width:3px;
+        width: 10%;
+        border-left-style: ; 
+        margin-left: 280px; 
+        padding-bottom:0px;
+        padding-top: 0px; 
+    }
+
+  #ccgCom .col-md-5 .btn
+{
+  background-color: #fff;
+  margin:10px;
+  margin-bottom: 80px;
+  padding: 14px 10px 10px 10px;
+  height: 50px;
+  margin-top: 50px;
+
+}
+
+
+#ccgCom .col-md-5 .btn:hover 
+{
+    background-color:#e5e5e5;
+}
+
+.col-md-5 .btn p1
+{
+  color: #032040;
+  font-size: 15px;
+  font-weight: bold;
+  padding-top: 0px;
+}
+
+ #ccgCom h3
+ {
+  color: #fff;
+  font-size: 28px;
+  font-weight: bold;
+  padding-bottom: 40px;
+  padding-top: 0px;
+ }   
+
+#ccgCom .col-md-7 
+{
+  border-top:px solid;
+  padding-left:50px;
+  padding-right: 50px;
+  padding-bottom: 30px;
+  padding-top:30px;
+}
+
+#ccgCom .col-md-7 h2
+{
+  color: #032040;
+  text-align: center;
+  margin: 0px;
+  padding-bottom:30px;
+  padding-top: 30px;
+  font-size: 35px;
+  border-bottom: 0px solid #b0b0b0;
+}
+
+
+
+ 
+
+#ccgCom .col-md-7 p
+{
+  color: #555;
+  font-size: 18px;
+  text-align:justify;
+  margin-right: 30px;
+  margin-left: 30px;
+
+}
+
+
+#neutral 
+
+{
+    background-color:#f5f6f7;
+}
+
+#neutral  .btn
+{
+  background-color: #04604b;
+  margin:0px;
+  margin-bottom:40px;
+  padding: 14px 10px 10px 10px;
+  height: 50px;
+  margin-top:0px;
+
+}
+
+
+#neutral .btn:hover 
+{
+    background-color:#058366;
+}
+
+
+ #neutral .btn p1
+{
+  color: #fff;
+  font-size: 15px;
+  font-weight: bold;
+  padding-top: 0px;
+}
+
+
+#visa {
+
+  background-color: #f5f6f7;
+  padding-bottom: 80px;
+  padding-top: 40px;
+}
+
+#visa p
+
+{
+  text-align: justify;
+  font-weight: bold;
+}
+
+#visa .residencePermit
+{
+  border-radius: 10px;
+  border:2px solid #b0b0b0;
+  background-color: #fff;
+  padding: 20px;
+}
+
+
+#visa .fa
+{
+  font-size: 45px;
+  padding-top: 50px;
+  color: #b5b5b5;
+}
+
+#visa h3
+{
+  color: #032040;
+  text-align: center;
+  padding-bottom: 10px;
+  font-size: 20px;
+}
+
+#visa img
+{
+  padding-top: 0px;
+  border:1px solid #202020;
+  padding: 4px;
+}
+
+
+#visa h4
+{
+  text-align: center;
+}
+
+#visa h2
+
+{
+color:#032040;
+padding-top: 0px;
+padding-bottom:10px;
+font-size: 35px;
+
+}
+
+#visa  .btn
+{
+  background-color: #ca0429;
+  margin:10px;
+  margin-bottom:0px;
+  padding: 14px 10px 10px 10px;
+  height: 50px;
+  margin-top: 50px;
+
+}
+
+
+#visa .btn:hover 
+{
+    background-color:#de3939;
+}
+
+
+ #visa .btn p1
+{
+  color: #fff;
+  font-size: 15px;
+  font-weight: bold;
+  padding-top: 0px;
+}
+/* end VieGhana */
+
+
+#enregistrement 
+{
+    background-color:#f5f6f7;
+    padding-top:30px;
+    padding-bottom:0px;
+}
+
+
+/* start communauteCentrafricaine */
+
+#communauteCentrafricaine
+{
+  background-color: #f5f6f7;
+}
+
+
+#communauteCentrafricaine .row 
+{
+
+  padding-top: 20px;
+}
+
+#communauteCentrafricaine  h1
+
+{
+        color:#032040;
+        font-size: 60px;
+        margin-right: 20px;
+        line-height: 60px;
+        font-weight: bold;
+        text-align:left;
+        padding-top: 50px;
+        padding-bottom: 20px;
+}
+
+#communauteCentrafricaine p1 {
+
+  color: #;
+  font-style:italic;
+  font-size: 25px;
+  font-weight: bold;
+  font-family:;
+  text-align: center;
+  align-content: center;
+  padding-bottom: 20px;
+  
+}
+
+#communauteCentrafricaine p
+
+{
+   font-style:;
+   font-weight: bold;
+   font-size: 16px;
+   padding-top: 20px;
+   text-align:;
+
+
+}
+
+#communauteCentrafricaine 
+{
+  padding-bottom: 80px;
+}
+
+#communauteCentrafricaine .ccg h2
+{
+  color: #032040;
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+#communauteCentrafricaine .ccg .ccgItem
+{
+  background-color: #f9f9f9;
+  border-radius: 15px;
+  border: 1px solid #b5b5b5;
+  padding: 15px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+
+
+#communauteCentrafricaine .fa
+{
+  font-size: 45px;
+  color: #b5b5b5;
+  border-radius: 50%;
+  border:1px solid #b5b5b5;
+  padding: 20px;
+  margin-top: 80px;
+
+}
+
+#communauteCentrafricaine .ccg p
+{
+  font-weight: normal;
+  padding-top: px;
+  text-align:justify;
+  padding:10px;
+}
+
+#communauteCentrafricaine .ccg ul p
+{
+  font-weight: bold;
+  padding-left:px;
+  font-style: ;
+  padding-top: 3px;
+}
+/* end communauteCentrafricaine */
+
+/* start bureauExecutif */
+
+
+#bureauExecutif 
+{
+  background-color: #141414;
+  padding-top: 30px;
+  background-color:;
+  padding-bottom: 50px;
+  alignment-baseline: ;
+  padding-top: 30px;
+  border: px solid #202020;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+
+#bureauExecutif h2
+{
+  color: #fff;
+  font-size: 30px;
+  text-align:;
+  padding-bottom:10px;
+  padding-top: 10px;
+
+}
+
+
+#bureauExecutif .mbr 
+{
+  padding-bottom: 50px;
+  text-align: center;
+}
+
+
+#bureauExecutif p
+{
+    color:;
+    padding-bottom: 15px;
+    text-align: center;
+    font-weight:;
+    font-size: 12;
+}
+
+#bureauExecutif p1
+{
+    color:#c0c0c0;
+    padding-bottom: 10px;
+    text-align:;
+    font-weight:;
+    font-size: 17px;
+}
+
+#bureauExecutif hr
+
+{
+  padding-bottom: 30px;
+}
+
+#bureauExecutif h4
+{
+    color: #ffffff;
+}
+
+#bureauExecutif .row
+{
+    padding-bottom: 0px;
+}
+
+#bureauExecutif h3
+{
+    font-size: 16px;
+    font-weight: bolder;
+    text-align: center;
+    color: #c0c0c0;
+
+}
+
+#bureauExecutif img
+    {
+        border: 1px solid #c0c0c0;
+        display: inline-block;
+        padding: 5px;
+        transition: all 0.4s ease-in;
+        align-content: center;
+        border-radius: 50%;
+    }
+
+#bureauExecutif .bureau p
+
+{
+   font-size:px;
+   font-weight: bold;
+   padding-top: 0px;
+   text-align: center;
+   font-style:;
+}
+
+#bureauExecutif .bureau
+{
+  padding-bottom: 40px;
+  padding-top:40;
+}
+/* end bureauExecutif */
+
+/* start galerie */
+
+#galerie
+{
+  background-color: #f5f6f7;
+}
+
+#galerie h1
+    {
+        color:#7a7a7a;
+        font-size:40px;
+        margin-right: 20px;
+        line-height: 60px;
+        font-weight: bold;
+        text-align:center;
+        padding-top: 20px;
+        padding-bottom: 0px;
+}
+
+#galerie h3
+
+{
+    font-size:20px;
+    text-align:center;
+    padding-bottom:50px;
+    color:#7a7a7a;
+}
+
+.first-gallery-section p
+{
+  color: #ffffff;
+  font-size: 15px;
+  font-weight:;
+  font-style:;
+}
+
+.fourth-section {
+  background-image: url(../);
+  background-size: cover;
+  width: 100%;
+  background-repeat: no-repeat;
+  padding: 16% 0px;
+}
+
+.fourth-section .col-md-3 {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.fourth-section .portfolio-item img {
+  width: 100%;
+  overflow: hidden;
+}
+
+.fourth-section .first-item .text {
+  background-color: #f4f4f4;
+}
+
+.fourth-section .second-item .text {
+  background-color: #eaeaea;
+}
+
+.fourth-section .third-item .text {
+  background-color: #dedede;
+}
+
+.fourth-section .portfolio-item .text {
+  padding: 20px 25px;
+}
+
+.fourth-section .portfolio-item .text span {
+  font-size: 13px;
+  color: #7a7a7a;
+}
+
+.fourth-section .portfolio-item .text h4 {
+  font-size: 17px;
+  color: #343434;
+  font-weight: 700;
+}
+
+.fourth-section .send-to-portfolio {
+  background-color:;
+  text-align: center;
+  border: 2px solid #202020;
+  
+}
+
+.fourth-section .send-to-portfolio span {
+  display: inline-block;
+  font-size: 15px;
+  color: #555;
+  font-weight: bolder;
+  font-style:;
+}
+
+.fourth-section .send-to-portfolio .primary-button {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.fourth-section .send-to-portfolio .primary-button a {
+  background-color: #0a8850;
+  color: #fff;
+  font-size: 18px;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.fourth-section .send-to-portfolio .primary-button a:hover {
+  background-color:#eee;
+  color: #0a8850;
+  border:2px solid #0a8850;
+}
+
+
+
+.fourth-section {
+    padding: 50px 0px;
+  }
+
+  .fourth-section .col-md-3 {
+    padding-left: px;
+    padding-right:px;
+  }
+
+  .fourth-section .portfolio-item {
+    margin-bottom: 30px;
+  }
+
+  .fourth-section .send-to-portfolio {
+    padding:  17% 10px;
+  }
+
+
+/*========================================
+----------- LIGHT BOX STYLE ------------
+========================================*/
+
+/* Preload images */
+body:after {
+  content: url(../img/close.png) url(../img/loading.gif) url(../img/prev.png) url(../img/next.png);
+  display: none;
+}
+
+body.lb-disable-scrolling {
+  overflow: hidden;
+}
+
+.lightboxOverlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  background-color: black;
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=80);
+  opacity: 0.8;
+  display: none;
+}
+
+.lightbox {
+  position: absolute;
+  margin-top: 5%;
+  left: 0;
+  width: 100%;
+  z-index: 10000;
+  text-align: center;
+  line-height: 0;
+  font-weight: normal;
+}
+
+.lightbox .lb-image {
+  display: block;
+  height: auto;
+  max-width: inherit;
+  max-height: none;
+  border-radius: 3px;
+
+  /* Image border */
+  border: 4px solid white;
+}
+
+.lightbox a img {
+  border: none;
+}
+
+.lb-outerContainer {
+  position: relative;
+  *zoom: 1;
+  width: 250px;
+  height: 250px;
+  margin: 0 auto;
+  border-radius: 4px;
+
+  /* Background color behind image.
+     This is visible during transitions. */
+  background-color: white;
+}
+
+.lb-outerContainer:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.lb-loader {
+  position: absolute;
+  top: 43%;
+  left: 0;
+  height: 25%;
+  width: 100%;
+  text-align: center;
+  line-height: 0;
+}
+
+.lb-cancel {
+  display: block;
+  width: 32px;
+  height: 32px;
+  margin: 0 auto;
+  background: url(../img/loading.gif) no-repeat;
+}
+
+.lb-nav {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: 10;
+}
+
+.lb-container > .nav {
+  left: 0;
+}
+
+.lb-nav a {
+  outline: none;
+  background-image: url('data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==');
+}
+
+.lb-prev, .lb-next {
+  height: 100%;
+  cursor: pointer;
+  display: block;
+}
+
+.lb-nav a.lb-prev {
+  width: 34%;
+  left: 0;
+  float: left;
+  background: url(../img/prev.png) left 48% no-repeat;
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+  opacity: 0;
+  -webkit-transition: opacity 0.6s;
+  -moz-transition: opacity 0.6s;
+  -o-transition: opacity 0.6s;
+  transition: opacity 0.6s;
+}
+
+.lb-nav a.lb-prev:hover {
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
+  opacity: 1;
+}
+
+.lb-nav a.lb-next {
+  width: 64%;
+  right: 0;
+  float: right;
+  background: url(../img/next.png) right 48% no-repeat;
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+  opacity: 0;
+  -webkit-transition: opacity 0.6s;
+  -moz-transition: opacity 0.6s;
+  -o-transition: opacity 0.6s;
+  transition: opacity 0.6s;
+}
+
+.lb-nav a.lb-next:hover {
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
+  opacity: 1;
+}
+
+.lb-dataContainer {
+  margin: 0 auto;
+  padding-top: 5px;
+  *zoom: 1;
+  width: 100%;
+  -moz-border-radius-bottomleft: 4px;
+  -webkit-border-bottom-left-radius: 4px;
+  border-bottom-left-radius: 4px;
+  -moz-border-radius-bottomright: 4px;
+  -webkit-border-bottom-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+}
+
+.lb-dataContainer:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.lb-data {
+  padding: 0 4px;
+  color: #ccc;
+}
+
+.lb-data .lb-details {
+  width: 85%;
+  float: left;
+  text-align: left;
+  line-height: 1.1em;
+}
+
+.lb-data .lb-caption {
+  font-size: 13px;
+  font-weight: bold;
+  line-height: 1em;
+}
+
+.lb-data .lb-caption a {
+  color: #4ae;
+}
+
+.lb-data .lb-number {
+  display: block;
+  clear: left;
+  padding-bottom: 1em;
+  font-size: 12px;
+  color: #999999;
+}
+
+.lb-data .lb-close {
+  display: block;
+  float: right;
+  width: 30px;
+  height: 30px;
+  background: url(../img/close.png) top right no-repeat;
+  text-align: right;
+  outline: none;
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=70);
+  opacity: 0.7;
+  -webkit-transition: opacity 0.2s;
+  -moz-transition: opacity 0.2s;
+  -o-transition: opacity 0.2s;
+  transition: opacity 0.2s;
+}
+
+.lb-data .lb-close:hover {
+  cursor: pointer;
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
+  opacity: 1;
+}
+
+
+.first-gallery-section {
+  background-image: url(../images/welcomeCCG.jpg);
+  background-size: cover;
+  width: 100%;
+  background-repeat: no-repeat;
+  padding: 10% 50px 10% 50px;
+  margin-top: 50px;
+  padding-bottom:350px;
+
+}
+
+.first-gallery-section .text-content {
+  text-align: right;
+  color: #fff;
+}
+
+.first-gallery-section .text-content h2 {
+  font-size: 45px;
+  text-transform:;
+  font-weight: ;
+  letter-spacing: 1px;
+  font-family: 'Source', sans-serif;
+}
+
+.first-gallery-section .text-content .line-dec {
+  width: 60px;
+  height: 3px;
+  background-color: #fff;
+  margin: 25px 0px 25px auto;
+}
+
+.first-gallery-section .text-content span {
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: 300;
+  letter-spacing: 1px;
+}
+
+.send-to-home  {
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+.send-to-home .back-to-home {
+  background-color: #415b90;
+  text-align: center;
+  padding: 45px 0px;
+}
+
+.send-to-home .back-to-home span {
+  display: inline-block;
+  font-size: 13px;
+  color: #fff;
+}
+
+.send-to-home .back-to-home .primary-button {
+  margin-top: 20px;
+}
+
+.send-to-home .back-to-home .primary-button a {
+  background-color: #fff;
+  color: #415b90;
+}
+
+.send-to-home .back-to-home .primary-button a:hover {
+  background-color: #22304d;
+  color: #fff;
+  transition: all 0.3s;
+}
+
+.filter-categories {
+  text-align: center;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
+.filter-categories ul li {
+  margin: 0px 5px 15px 5px;
+  display: inline-block;
+}
+
+.filter-categories ul li span {
+  cursor: pointer;
+  color: #7a7a7a;
+  border-radius: 25px;
+  background: white;
+  display: inline-block;
+  border: 1px solid #ddd;
+  padding: 10px 18px;
+  font-size: 11px;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.filter-categories ul li.active span {
+  background: #415b90;
+  color: white;
+  border: 1px solid #415b90;
+}
+
+.projects-holder .mix {
+  display: none;
+}
+
+
+/* end galerie */
+
+
+/* start contact */
+#contact
+    {
+        background: #f5f6f7; url('../images/.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        padding-top: 40px;
+        padding-bottom: 40px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+#contact h1
+    {
+        font-weight:;
+        padding-top:10px;
+        padding-bottom:10px;
+        color: #032040;
+        text-align:;
+        font-size:60px;
+        line-height: 50px;
+    }
+    
+#contact .form-control
+    {
+        background: #f5f6f7;
+        border-radius: 4px;
+        box-shadow: none;
+        margin-bottom: 20px;
+        transition: all 0.4s ease-in-out;
+    }
+
+
+    
+#contact h4
+    {
+        font-weight:;
+        padding-bottom: 40px;
+        color: #555;
+        text-align:;
+        font-size: 20px;
+        line-height:25px;
+        margin-left:15px;
+        margin-right:px;
+    }
+
+#etudierGhana p
+
+{
+    margin-right: 15px;
+}   
+
+#contact h3
+    {
+        font-weight: bold;
+        padding-bottom: 15px;
+        color:#032040;
+    }
+
+#contact p
+{
+    color: #555;
+    text-align:;
+    font-size: 14px;
+    font-weight: bold;
+    padding-top:
+}
+#contact .fa
+    {
+        color: #032040;
+        font-size: 14px;
+        padding-bottom: px;
+    }
+    
+#contact .msgg .fa
+
+{
+    font-size:45px;
+}
+
+#contact .msgg p
+
+{
+    font-weight:normal;
+    font-size:15px;
+    padding-top:20px;
+}
+
+
+#contact .msgg 
+
+{
+    padding-bottom:40px;
+}
+
+
+#contact .msgg img
+
+{
+    margin-bottom:10px;
+}
+
+#contact .form-control
+    {
+        background: #fff;
+        border-radius: 4px;
+        box-shadow: none;
+        margin-bottom: 20px;
+        transition: all 0.4s ease-in-out;
+    }
+#contact input
+    {
+        height: 50px;
+    }
+#contact input[type="submit"]
+    {
+        color: #032040;
+        font-weight: bold;
+        margin-bottom: 60px;
+    }
+#contact input[type="submit"]:hover
+    {
+        background: #032040;
+        color:#fff;
+    }
+ #contact .form-control::-moz-placeholder {
+  color: #666;
+  opacity: 1;
+}
+#contact .form-control:-ms-input-placeholder {
+  color: #666;
+}
+#contact .form-control::-webkit-input-placeholder {
+  color: #666;
+}
+/* end contact */
+
+/* start presentation */
+
+#presentation 
+
+{
+  background-color: #f5f6f7; 
+  padding-bottom: 30px;
+  padding-left:0px;
+  padding-right:0px;
+  padding-top: 30px;
+
+}
+
+#presentation hr
+
+{
+    alignment-baseline: left;
+    border-color:#c0c0c0;
+    border-width:2px;
+    width: 10%;
+    border-left-style: left; 
+    margin-left: 0; padding-bottom: 0px;   
+    margin-left:px;
+}  
+
+#presentation .container 
+
+{
+  padding-top:0px;
+}
+
+
+
+#presentation h1
+
+{
+        color:#032040;
+        font-size: 60px;
+        margin-right: 20px;
+        line-height:0px;
+        font-weight: bold;
+        text-align:left;
+        padding-top: 40px;
+        padding-bottom:30px;
+        padding-left:0px;
+}
+
+
+
+#presentation .col-md-8 p
+
+{
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-bottom:0px;
+    line-height:30px;
+    font-weight:bold;
+    letter-spacing: em;
+    font-size: 18px;
+    text-align:justify;
+    margin-right:30px;
+}
+#presentation h2 
+{
+    color:;
+    font-weight:bold;
+    margin-right:20px;
+    
+    
+}
+
+#presentation .rvs h2 
+{
+    color:;
+    font-weight:bold;
+    padding-left:0px;
+    
+}
+#presentation .col-md-7 p
+{
+  padding-right: 20px;
+  text-align: justify;
+}
+
+#presentation .rvs
+{
+  padding-top: 40px;
+}
+
+#presentation .rvs p
+{
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+#presentation img
+{
+        margin-top:40px;
+        margin-bottom:px;
+        border: 1px solid #7a7a7a;
+        display: inline-block;
+        padding-top:px;
+        margin:px;
+        padding:5px;
+}
+
+#presentation .col-md-4
+{
+  background-color: #fff;
+  border-radius: 10px;
+  border: 2px solid #b0b0b0;
+  margin: 0px;
+  margin-top: 50px;
+  padding-left: 20px;
+}
+
+#presentation h3
+{
+  color: #7a7a7a;
+  font-size: 18px;
+}
+
+
+#com-img
+{
+  background-color: #f5f6f7;
+  padding-bottom: 60px;
+  padding-top: 20px;
+}
+
+#com-img p
+{
+
+  color: #7a7a7a;
+  text-align:;
+  font-size:14px;
+  font-weight:;
+  margin:10px;
+  text-align:;
+}
+
+
+#com-img .container
+{
+  background-image: url();
+  border-radius: 10px;
+  padding:0px;
+  border: 2px solid #b0b0b0;
+  background-color: #fff;
+
+}
+
+#com-img .col-md-8
+{
+  background-image: url('../images/ccgsewa-com-img.jpg');
+  background-color:#141414;
+  padding-bottom: 260px;
+  padding-top: 260px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+#com-img .col-md-4
+{
+  background-color: #fff;
+  margin:px;
+  border-bottom-left-radius: 10px;
+  border-top-left-radius: 10px;
+}
+
+#com-img .container .row
+{
+  border-radius: 0px;
+}
+
+
+#com-img img
+{
+
+  border-bottom: 1px solid #a0a0a0;
+  padding: 20px;
+}
+
+#devise
+{
+  background-color: #f5f6f7;
+  text-align: center;
+  padding-top: 50px;
+}
+
+#devise h1
+{
+        color:#de3939;
+        font-size: 35px;
+        margin-right:0px;
+        line-height:60px;
+        font-weight: bold;
+        text-align:;
+        padding-top:10px;
+        padding-bottom:50px;
+        padding-left:0px;
+}
+
+#devise h3
+{
+  color: #323232;
+}
+.exp 
+{
+  margin-right: 200px;
+  margin-left: 200px;
+}
+
+/* end presentation */
+
+/* start footer */
+footer
+    {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        text-align: ;
+        background-color: #141414;
+        border-top: 1px solid #fff;
+    }
+footer p
+    {
+        line-height:px;
+        color: #999;
+        font-size: 12px;
+        font-weight: bold;
+        padding-top: 20px;
+        padding-bottom: 10px;
+        text-align: center;
+
+
+    }
+
+footer .ft p1
+{
+    font-size:12px;
+    color:#656565;
+    text-align:center;
+    padding-top:30px;
+}
+footer .ft p 
+
+{
+  font-weight: bold;
+  font-size: 12px;
+  color: #999;
+  padding-top: 20px;
+  padding-bottom:;
+  text-align: center;
+}    
+footer .social-icon
+    {
+        top: 0px;
+    }
+/* end footer */
+
+.too-icon {
+  padding: 10px;
+}
+
+/* start social icon */
+.social-icon
+    {
+        position: relative;
+        padding: 0;
+        margin: 0;
+        top: 20px;
+    }
+.social-icon li
+    {
+        display: inline-block;
+        list-style: none;
+    }
+.social-icon li a
+    {
+        color: #333;
+        font-size: 13px;
+        text-decoration: none;
+        transition: all 0.4s ease-in-out;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        text-align: center;
+    }
+.social-icon li a:hover
+    {
+        background: #f2f2f2;
+    }
+/* end social icon */
+@media only screen and (min-width: 1199px) {
+    .flexslider h1 { font-size: 50px; color: #fff;}
+    .flexslider h2 { font-size: 24px; }
+    #first .fa
+{
+  font-size:50px
+  color:20px;
+  display:none;
+}
+
+#first .fa
+
+{
+    
+}
+
+#first .col-md-4 p
+{
+  color: #ca0429;
+  font-size: 10px;
+  display:none;
+}
+
+#first .wlcmsg p
+{
+  color: #032040; 
+  font-weight: bold; 
+  font-size: 22px;
+  padding-top: 0px;
+  text-align:;
+}
+
+#second-tab-grouppp p
+
+{
+  margin-right: 20px;
+  margin-left: 20px;
+  text-align:justify; 
+  
+}
+
+
+#second-tab-groupp
+{
+}
+
+#second-tab-groupp p
+
+{
+  margin-right: 20px;
+  margin-left: 20px;
+  text-align:justify; 
+  
+}
+#second-tab-group p
+
+{
+  margin-right: 20px;
+  margin-left: 20px;
+  text-align:justify; 
+  
+}
+
+
+
+
+#second-tab-groupp h4
+{
+  color: #353535;
+  margin: 10px;
+  text-align: left;
+  margin-left: 20px;
+  padding-bottom:0px;
+}
+
+
+#second-tab-grouppp h4
+{
+  color: #353535;
+  margin: px;
+  text-align: left;
+  margin-left: 20px;
+}
+
+#second-tab-group h4
+{
+
+  color: #353535;
+  margin: 10px;
+  text-align: left;
+  margin-left: 20px;
+  padding-bottom:10px;
+}
+
+#economie
+{
+    padding:30px;
+}
+
+#histoire 
+{
+    padding:30px;
+}
+
+#societe
+{
+    padding:30px;
+}
+
+#contact .hd
+
+{
+    display:none;
+}
+
+
+}
+
+
+/* start 768 media quires */
+@media only screen and ( max-width: 768px ) {
+    
+    
+ 
+
+}
+
+
+
+    
+/* end 768 media quires */
+
+/* start 600 media quires */
+@media only screen and ( max-width: 740px ) { 
+
+
+  h4 
+  {
+    padding-bottom: 0px;
+  }
+    
+#accueilCCG{  
+  
+  background-image: url(../images/ccgsewa-accueil-bg.jpg);
+  background-color:#032040;
+  background-size: cover;
+  width: 100%;
+  height:100%;
+  max-width:100%;
+  background-repeat: no-repeat;
+  padding: 10% 0px 10% 0px;
+  margin-top: 50px;
+  padding-bottom:80px;
+}
+
+
+#accueilCCG h1
+{
+    font-size:25px;
+    padding-top:70px;
+    margin-left:50px;
+    margin-right:50px;
+    line-height:30px;
+}
+
+.first-gallery-section .text-content h2
+{
+    font-size:25px;
+    padding-top:70px;
+    margin-left:160px;
+    margin-right:10px;
+    line-height:30px;
+    color:#de3939;
+    text-align:center;
+}
+
+
+#accueilCCG p
+
+{
+  color: #fff;
+  margin-left:px;
+  margin-right:px;
+  text-align: center;
+  font-size: 15px;
+  font-weight:bold;
+}
+
+#second h1  
+
+{
+  font-size: 35px;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom:50px;
+  color: #032040;
+}
+
+
+#second hr 
+{
+    alignment-baseline: central;
+    border-color:#888;
+    border-width:1px;
+    width: 10%;
+    border-style:; 
+    margin-right: 100px;
+    margin-left: 150px;
+    padding-bottom: 20px;
+} 
+
+
+ #second  .btn
+{
+  background-color: #ca0429;
+  margin:10px;
+  margin-bottom:40px;
+  padding: 14px 10px 10px 10px;
+  height: 50px;
+  margin-top: 20px;
+
+}
+
+
+#second .btn:hover 
+{
+    background-color:#de3939;
+}
+
+
+ #second .btn p1
+{
+  color: #fff;
+  font-size: 15px;
+  font-weight: bold;
+  padding-top: 0px;
+}
+
+
+#PageOptions
+
+{
+    
+    background-color:#fff;
+    margin:0px;
+}
+
+#PageOptions .row
+{
+    margin:0px;
+}
+
+ #PageOptions  .btn
+{
+  background-color: #ca0429;
+  margin:20px;
+  margin-bottom:20px;
+  padding: 14px 10px 10px 10px;
+  height: 50px;
+  margin-top: 20px;
+
+}
+
+
+#PageOptions .btn:hover 
+{
+    background-color:#de3939;
+}
+
+
+ #PageOptions .btn p1
+{
+  color: #fff;
+  font-size: 15px;
+  font-weight: bold;
+  padding-top: 0px;
+}
+
+
+
+
+#neutral h1
+{
+  font-size: 40px;
+  padding-top: 0px;
+  padding-bottom:0px;
+}
+
+#vieGhana h1
+
+{
+  font-size: 40px;
+  padding-top:10px;
+}
+
+#leGhana h1
+
+{
+  font-size: 40px;
+  padding-top:10px;
+}
+
+#second-tab-group h4 
+{
+  padding-top: 30px;
+  padding-bottom:px;
+}
+
+
+#etudierGhana
+{
+    background-color:#fff;
+}
+
+
+#etudierGhana h1
+{
+  font-size: 40px;
+  padding-top:20px;
+  line-height:30px;
+}    
+
+    #first {
+      background-color: #f5f6f7;
+      padding-top: 50px;
+    }  
+    .flexslider h1 { 
+        
+        font-size: 25px; 
+        color: #fff; 
+        text-align: center;}
+    
+
+   #first 
+   {
+    text-align: center;
+   } 
+
+   #first .col-md-4
+{
+  padding-top:px;
+}
+
+
+#first .col-md-4 p
+{
+    font-weight:normal;
+    
+    
+}
+
+
+#first .fa
+{
+  font-size: 25px;
+  border:1px solid #032040;
+  border-radius: 50%;
+  padding: 15px;
+  text-align: center;
+  color: #032040;
+  background-color: #fff;
+  box-shadow: 0px 0px px px #eee;
+}
+
+#first .fa:hover
+{
+  color: #fff;
+  background-color: #f5f6f7;
+  box-shadow: 0px 0px px px #fff;
+  border:1px solid #fff;
+
+}
+
+#first p
+{
+  color: #202020;
+  font-weight:lighter;
+  margin:25px;
+  font-size:16px;
+  
+}
+
+
+
+#first i
+{
+  color: #032040;
+
+}
+
+#first .wlcmsg 
+{
+  padding-top: px;
+}
+
+#first .wlcmsg p
+{
+  color: #032040; 
+  font-weight: bold; 
+  font-size: 20px;
+  padding-top:60px;
+  padding-right:px;
+  padding-left:px;
+}
+
+#first .col-md-4 p
+{
+  color: #454545;
+  font-size:15px;
+}
+
+#second p {
+
+    color: #7a7a7a;
+    font-size:16px;
+    line-height:px;  
+    padding-bottom:px;
+    font-weight: bold;
+    text-align: center;
+    margin-right: 20px;
+    margin-left: 20px;
+    
+
+}
+
+#second 
+{
+    background-color:#fff;
+}
+
+
+
+.guide 
+{
+  background-image:;
+  background-color: #032040;
+  padding-top:30px;
+  padding-bottom: 40px;
+
+
+}
+
+.guide .col-md-6 img
+{
+  margin-bottom:25px;
+  margin-top:10px;
+  width: 50%;
+  margin-left:0px;
+ 
+}
+
+
+ .guide p
+{
+  font-size:16px;
+  padding: 0px;
+  line-height:25px;
+  font-weight:bold;
+  padding-bottom:10px;
+  padding-right:0px;
+  color: #b9eaff;
+  margin:0px;
+  text-align:;
+
+}
+
+.guide h4
+{
+  color: #104074;
+  font-size: 40px;
+  font-style: italic;
+  line-height: 10px;
+  padding-top: 10px;
+}
+
+.talk
+{
+  padding-top:0px;
+  margin:0px;
+}
+
+
+#informations 
+{
+  background-color: #032040;
+  text-align:;
+  padding-bottom: 0px;
+  padding-top: 0px;
+
+  
+}
+
+#informations .col-md-8
+
+{
+  background-image: url('../images/data-bg1.jpg');
+  display: none;
+  background-size: cover;
+  height:500px;
+}
+
+#informations .col-md-4
+
+{
+  padding-top: 30px;
+  text-align:;
+  padding-left:40px;
+  padding-bottom: 30px;
+}
+
+
+#informations h2
+{
+  color: #fff;
+  padding-bottom: 20px;
+  font-size: 25px;
+  text-align: ;
+}
+
+#informations .col-md-4 p
+{
+  color: #d0e6fe;
+  font-size: 13px;
+  padding-bottom: 10px;
+  font-weight: bold;
+  padding-left:px;
+  text-align:;
+}
+
+
+#informations .container
+{
+    margin-left:px;
+    margin-right:px;
+}
+
+#informations h1  
+
+{
+  font-size: 35px;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom:70px;
+  color: #fff;
+}
+
+#informations .col-md-3
+{
+  padding-bottom: 30px;
+}
+
+#informations img
+{
+  padding-left:20px;
+  padding-right: 20px;
+}
+
+#informations h4
+{
+  color: #fff;
+  font-size: 18px;
+  line-height: 15px;
+}
+
+#informations p
+{
+  font-size: 16px;
+  color: #9a9a9a;
+  line-height: 15px;
+}
+
+
+#institutions 
+
+ {
+
+  background-image: url('../images/ccgsewa-institutionsGhana-bg.jpg');
+  background-color:#141414;
+  margin-top:0px;
+  padding-top: 40px;
+  padding-bottom:0px;
+
+ }
+ 
+#institutions .row
+{
+    margin:0px;
+}
+
+.superieurList
+{
+  background-color: #ca0429;
+  padding-bottom: 40px;
+  padding-top: 40px;
+  margin:10px;
+  border-radius:10px;
+  margin-bottom:0px;
+  text-align:center;
+
+}
+
+.superieurList h4
+
+{
+  color: #fff;
+  text-align:;
+  margin: 10px;
+  text-align: center;
+  font-size: 13px;
+  font-weight: bold;
+  line-height: 20px;
+  padding-bottom: 30px;
+  padding-top: 20px;
+}
+
+
+
+.superieurList .listSup a
+{
+  color:#032040;
+  font-weight: bold;
+  text-align: center;
+  font-size: 12px;
+  padding-left: 0px;
+  padding-right:0px;
+  text-align: center;
+}
+
+.listSup .active a
+{
+  color:;
+}
+
+ 
+
+ .listSup
+{
+  background-color: #fff;
+  border-radius: 5px;
+  margin-right: 50px;
+  margin-left:50px ;
+  text-align:center;
+  margin-bottom: 30px;
+  padding-top: px;
+  padding-bottom:px;
+  
+}
+
+
+.listSup:hover
+{
+  background-color: #032040;
+  
+}
+
+.active .listSup
+
+{
+    background-color:#ca0429;
+}
+
+
+.listSup a:hover
+{
+  color: #fff;
+}
+
+
+#tab1
+{
+  background-color: 
+  padding-top: 50px;
+  padding-bottom:50px;
+}
+
+
+#tab1 h4
+{
+  color: #032040;
+  font-size: 25px;
+  text-align: center;
+  font-style: italic;
+  padding: 20px;
+  margin:0px;
+
+}
+
+#tab1 .wlcSup
+{
+  background-color: #fff;
+  border-radius: 10px;
+  margin-top: 60px;
+  margin-left:10px;
+  margin-right:10px;
+  opacity: 0.7;
+  display:none;
+}
+
+
+
+
+#first-tab-groupq .text-content
+{
+  background-color:#fff;
+  margin-left:0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  margin:0px;
+  padding-bottom:20px;
+  padding-top: 50px;
+  border-radius: 10px;
+}
+
+#first-tab-groupq .text-content h4
+{
+  color: #032040;
+  text-align: center;
+  padding-left:0px;
+  margin-top: 0px;
+  
+
+}
+
+
+#first-tab-groupq  .text-content p
+{
+  margin:15px;
+  text-align: justify;
+  font-size: 15px;
+}
+
+
+
+
+
+
+#leGhana p
+
+{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-bottom:0px;
+    line-height:30px;
+    font-weight:bold;
+    letter-spacing: em;
+    font-size: 15px;
+    text-align:;
+}
+
+
+
+#neutral p
+
+{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-bottom:0px;
+    line-height:30px;
+    font-weight:;
+    letter-spacing: em;
+    font-size: 15px;
+    text-align:;
+}
+
+#neutral 
+{
+    padding-bottom:0px;
+    padding-top:;
+}
+
+#img-data
+{
+  background-color: #f5f6f7;
+  padding-top: 10px;
+  padding-bottom:10px;
+}
+
+#img-data .content
+{
+  border: 1px solid #b0b0b0;
+  background-color: #fff;
+  border-radius: 5px;
+  margin: 10px;
+  margin-bottom:50px;
+}
+
+#img-data .content h3
+{
+  text-align: center;
+  color: #323232;
+}
+
+#img-data .content p
+{
+  margin: 20px;
+  color: #7a7a7a;
+  text-align:justify;
+  font-size:14px;
+
+}
+
+#img-data ul
+{
+  margin-left: 30px;
+}
+#economie img
+{
+    margin-top:20px;
+}
+
+
+#economie .col-md-12
+{
+    padding-top:10px;
+}
+
+#histoire img 
+{
+    margin-top:20px;
+}
+
+#histoire .col-md-12
+{
+    padding-top:20px;
+}
+
+#societe img
+{
+    margin-top:20px;
+}
+
+#ghanaList .item
+
+{
+  border: 1px solid #ccc;
+  border-radius:5px;
+  margin:-5px;
+  margin-bottom:20px;
+  background-color:#056746;
+  box-shadow: 0px 4px 5px #f1f1f1 ;
+  padding:0px;
+  margin-top: 10px;
+}
+
+#ghanaList h3
+{
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff;
+  text-align: center;
+
+}
+
+#ghanaList h4
+{
+    text-align:center;
+    padding-bottom:20px;
+}
+
+#ghanaList 
+{
+    padding-bottom:50px;
+    padding-top: 0px;
+    margin-left:0px;
+    margin-right:0px;
+}
+
+#second-tab-grouppp p
+
+{
+  margin-right: 10px;
+  margin-left: 10px;
+  font-size:15px;
+  text-align:justify;
+  
+}
+
+.text-etudier img
+{
+    padding-bottom:20px;
+}
+
+#etudierGhana p
+{
+
+    margin-left: 10px;
+    margin-right: 15px;
+    padding-bottom:0px;
+    line-height:30px;
+    font-weight:;
+    letter-spacing:0px;
+    font-size: 15px;
+    text-align:;
+}
+
+#systemeEducatif img
+{
+    margin-top:0px;
+    margin-bottom:0px;
+}
+
+#inscriptions img
+{
+    margin-top:0px;
+    margin-bottom:10px;
+}
+
+#systemeEducatif .col-md-12
+{
+    padding-top:30px;
+}
+
+
+.text-tiyee
+{
+  background-image: url('../images/');
+  background-color: #032040;
+  padding-bottom: 40px;
+  padding-top: 20px;
+  margin:px;
+  margin-left:0px;
+  margin-right:0px;
+  border-radius:10px;
+  margin-top:0px;
+
+}
+
+.text-tiyee p
+{
+    margin-left:0px;
+    margin-right:0px;
+    padding: 0px;
+    text-align:left;
+    color: #fff;
+    
+}
+
+.text-tiyee h5
+{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+#second-tab-groupp p
+
+{
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size:15px;
+  text-align:justify;
+  
+}
+
+#vieGhana .intro-vieGhana p
+
+{
+
+    margin-left: 10px;
+    margin-right: 15px;
+    padding-bottom:0px;
+    line-height:30px;
+    font-weight:;
+    letter-spacing:0px;
+    font-size: 15px;
+    text-align:justify;
+}
+
+
+
+.life {
+  background-image:url('../images/ccgsewa-vieGhana-bg.jpg')
+  background-color:#f141414;
+  padding-bottom: 60px;
+  padding-top: 60px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+
+}
+
+.life .list-item {
+  background-color: #fff;
+  text-align: center;
+  padding: 10px 10px;
+  margin: 20px 2px;
+  transition: all 0.5s;
+  border:px solid ;
+  border-radius: 5px;
+  
+  
+
+}
+
+
+.life .list-item h4 {
+  margin-top: 10px;
+  margin-bottom: 0px;
+  font-size: 30px;
+  font-weight: 700;
+  text-transform: ;
+  color: #252525;
+}
+
+.tabgroupp h4
+
+{
+    color:#353535;
+    text-align: center;
+}
+
+
+.tabgrouppp h4
+
+{
+    color:#353535;
+    text-align: center;
+}
+
+
+.tabgrouppp h4
+
+{
+    color:#353535;
+    text-align: center;
+}
+
+
+.tabgroup h4
+
+{
+    color:#353535;
+    text-align: center;
+}
+
+#etudierGhana .tab-content-services {
+  margin-top: 70px;
+}
+
+#second-tab-group p
+
+{
+  margin-left:10px;
+  margin-right: 10px;
+  font-size:15px;
+  text-align:justify;
+  
+}
+
+#second-tab-group img
+
+{
+  margin-top:20px;
+  
+}
+
+#activites img
+{
+    margin-top:5px;
+}
+
+#logement
+{
+    margin-top:px;
+    padding-top:20px;
+}
+
+
+#guideEtudierGhana h4
+{
+    padding-top:20px;
+}
+
+#transport
+{
+    padding-top:20px;
+}
+
+#sante
+{
+    padding-top:20px;
+}
+
+#cuisine 
+{
+    padding-top:20px;
+}
+
+#visa p
+{
+
+    margin-left: 10px;
+    margin-right: 15px;
+    padding-bottom:0px;
+    line-height:30px;
+    font-weight:;
+    letter-spacing:0px;
+    font-size: 15px;
+    text-align:justify;
+}
+
+
+
+#visa .residencePermit
+{
+  border-radius: 15px;
+  border:1px solid #b0b0b0;
+  background-color: #fff;
+  padding: 10px;
+}
+
+
+#visa  .btn
+{
+  background-color: #ca0429;
+  margin:10px;
+  margin-bottom:0px;
+  padding: 14px 10px 10px 10px;
+  height: 50px;
+  margin-top: 50px;
+
+}
+
+
+#visa .btn:hover 
+{
+    background-color:#de3939;
+}
+
+
+ #visa .btn p1
+{
+  color: #fff;
+  font-size: 15px;
+  font-weight: bold;
+  padding-top: 0px;
+}
+
+#neutral  .btn
+{
+  background-color: #04604b;
+  margin:0px;
+  margin-bottom:60px;
+  padding: 14px 10px 10px 10px;
+  height: 50px;
+  margin-top:30px;
+
+}
+
+
+#neutral .btn:hover 
+{
+    background-color:#058366;
+}
+
+
+ #neutral .btn p1
+{
+  color: #fff;
+  font-size: 15px;
+  font-weight: bold;
+  padding-top: 0px;
+}
+
+
+ #leGhana .col-md-8 .btn
+{
+  background-color: #ca0429;
+  margin:10px;
+  margin-bottom: 20px;
+  padding: 14px 10px 10px 10px;
+  height: 50px;
+  margin-top: 30px;
+  box-shadow: 0px 4px 5px #a0a0a0 
+  margin-left:50px;
+
+
+}
+
+#leGhana .col-md-8 .btn:hover
+{
+    background-color:de3939;
+}
+
+#leGhana .col-md-8 .btn p1
+{
+  color: #fff;
+  font-size: 15px;
+  font-weight: bold;
+  padding-top: 0px;
+}
+
+#ccgCom
+{
+  margin-top: 0px;
+  background-color: #f5f6f7;
+}
+
+#ccgCom .col-md-5
+{
+  
+  background: url('../images/ccgsewa-decouvrezNous-bg.jpg');
+  background-color:#032040;
+  background-repeat: no-repeat;
+  margin: px;
+  padding-top: 60px;
+  padding-bottom: 80px;
+  padding-left: 20px;
+  padding-right: 10px;
+
+}
+
+#ccgCom .row
+{
+  margin: 0 auto;
+}
+
+#ccgCom h2
+{
+  color: #fff;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#ccgCom .col-md-5 hr
+    {
+      border-color: #fff;
+      alignment-baseline: left;
+        border-width:3px;
+        width: 10%;
+        border-left-style: left; 
+        margin-left: 0; 
+        padding-bottom: 0px;
+        padding-top: 0px; 
+    }
+
+#ccgCom .col-md-7 hr
+    {
+      border-color: #3c3b3b;
+      alignment-baseline: central;
+        border-width:3px;
+        width: 10%;
+        border-left-style: ; 
+        margin-left: 280px; 
+        padding-bottom:0px;
+        padding-top: 0px; 
+    }
+
+  #ccgCom .col-md-5 .btn
+{
+  background-color: #fff;
+  margin:7px;
+  margin-bottom: 0px;
+  padding: 14px 10px 10px 10px;
+  height: 50px;
+  margin-top: 50px;
+
+
+}
+
+
+#ccgCom .col-md-5 .btn:hover 
+{
+    background-color:#e0e0e0;
+    box-shadow:box-shadow: 0px 4px 5px #a0a0a0;;
+}
+
+.col-md-5 .btn p1
+{
+  color: #032040;
+  font-size: 15px;
+  font-weight: bold;
+  padding-top: 0px;
+}
+
+ #ccgCom h3
+ {
+  color: #fff;
+  font-size: 24px;
+  font-weight: bold;
+  padding-bottom: 20px;
+  padding-top: 0px;
+ }   
+
+#ccgCom .col-md-7 
+{
+  border-top:px solid;
+  padding-left:0px;
+  padding-right:0px;
+  padding-bottom: 50px;
+  padding-top: 20px;
+}
+
+#ccgCom .col-md-7 h2
+{
+  color: #032040;
+  text-align: center;
+  margin: 20px;
+  margin-left:60px;
+  margin-right:60px;
+  padding-bottom:0px;
+  padding-top:5px;
+  font-size: 30px;
+  border-bottom: 0px solid #b0b0b0;
+}
+
+
+
+#ccgCom .col-md-7 p
+{
+  color: #555;
+  font-size: 15px;
+  text-align:justify;
+  margin-right: 20px;
+  margin-left: 20px;
+  padding-top: 10px;
+  font-weight:bold;
+
+}
+
+#contact
+    {
+        background: #fff; url('../images/fg.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        color: #ffffff;
+        padding-top: 30px;
+        padding-bottom: 40px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+#contact h3
+    {
+        font-weight: bold;
+        padding-bottom: 14px;
+        color:#032040;
+    }
+
+#contact h1
+    {
+        font-weight: bold;
+        padding-top:0px;
+        padding-bottom:px;
+        color: #032040;
+        text-align:;
+        font-size: 40px;
+        line-height: 30px;
+    }
+#contact h4
+{
+    color:#5a5a5a;
+    font-size:15px;
+    padding-bottom:30px;
+    padding-top: 30px;
+    text-align:center;
+    font-weight:bold;
+    margin-left:0px;
+}
+    
+ 
+ #contact p
+ {
+     color:#032040;
+     font-size:13px;
+ }
+ 
+ 
+ 
+#contact .form-control
+    {
+        background: #f5f6f7;
+        border-radius: 4px;
+        box-shadow: none;
+        margin-bottom: 20px;
+        transition: all 0.4s ease-in-out;
+    }
+ 
+ #contact input[type="submit"]:hover
+    {
+        background: #032040;
+    }
+
+#communauteCentrafricaine  h1
+
+{
+        color:#032040;
+        font-size: 35px;
+        margin-right: 20px;
+        line-height: 60px;
+        font-weight: bold;
+        text-align:left;
+        padding-top: 50px;
+        padding-bottom: 20px;
+        text-align:;
+}
+ 
+ 
+.hl 
+{
+    display:none;
+}
+
+#bureauExecutif 
+{
+  background-color: #141414;
+  padding-top: 30px;
+  background-color:;
+  padding-bottom: 10px;
+  alignment-baseline: ;
+  padding-top: 30px;
+  border: px solid #202020;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+
+#bureauExecutif h2
+{
+  color: #fff;
+  font-size: 30px;
+  text-align:;
+  padding-bottom:10px;
+  padding-top: 10px;
+
+}
+
+
+#bureauExecutif .mbr 
+{
+  padding-bottom: 50px;
+  text-align: center;
+}
+
+
+#bureauExecutif p
+{
+    color:;
+    padding-bottom: 15px;
+    text-align: center;
+    font-weight:;
+    font-size: 15px;
+}
+
+#bureauExecutif p1
+{
+    color:#c0c0c0;
+    padding-bottom: 10px;
+    text-align:;
+    font-weight:;
+    font-size: 17px;
+}
+
+#bureauExecutif hr
+
+{
+  padding-bottom: 30px;
+}
+
+#bureauExecutif h4
+{
+    color: #ffffff;
+}
+
+#bureauExecutif .row
+{
+    padding-bottom: 0px;
+}
+
+#bureauExecutif h3
+{
+    font-size: 16px;
+    font-weight: bolder;
+    text-align: center;
+    color: #c0c0c0;
+
+}
+
+#bureauExecutif img
+    {
+        border: 1px solid #c0c0c0;
+        display: inline-block;
+        padding: 5px;
+        transition: all 0.4s ease-in;
+        align-content: center;
+        border-radius: 50%;
+    }
+
+
+.first-gallery-section {
+  background-image: url(../images/welcomeCCG.jpg);
+  background-size: cover;
+  width: 100%;
+  background-repeat: no-repeat;
+  padding: 10% 0px 10% 0px;
+  margin-top: 50px;
+  padding-bottom:250px;
+
+}
+
+/* start presentation */
+
+#presentation 
+
+{
+  background-color: #f5f6f7; 
+  padding-top: 10px;
+  padding-bottom: 40px;
+  padding-left:10px;
+  padding-right:10px;
+}
+
+#presentation .rvs
+{
+  display: flex;
+  flex-direction: column-reverse;
+  padding-top:0px;
+}
+
+
+
+
+#presentation h1
+
+{
+        color:#032040;
+        font-size: 35px;
+        margin-right: 20px;
+        line-height:40px;
+        font-weight: bold;
+        text-align:left;
+        padding-top: 0px;
+        padding-bottom:0px;
+        text-align:;
+}
+
+
+#presentation h2 
+{
+    color:;
+    font-weight:bold;
+    margin-right:20px;
+    font-size:20px;
+    
+}
+
+#presentation .rvs h2 
+{
+    color:;
+    font-weight:bold;
+    margin-right:20px;
+    font-size:25px;
+    padding-left:0px;
+    
+}
+
+
+#presentation .col-md-8 p
+{
+  padding-right:0px;
+  text-align: justify;
+  font-size:15px;
+  font-weight: bold;
+  margin: 0px;
+}
+
+
+
+#presentation .col-md-4
+{
+  background-color: #fff;
+  border-radius: 10px;
+  border: 1px solid #b0b0b0;
+  margin-top: 50px;
+  padding-left: 20px;
+  margin-bottom:0px;
+}
+
+
+#presentation h3
+{
+  color: #7a7a7a;
+  font-size: 16px;
+}
+
+
+#presentation .rvs
+{
+  padding-top: 30px;
+}
+
+#presentation .rvs p
+{
+  padding-left: 0px;
+  padding-right: 0px;
+  font-size:15px;
+  text-align:justify;
+}
+
+#presentation img
+{
+        margin-top: 30px;
+        margin-bottom:px;
+        border: 1px solid #7a7a7a;
+        display: inline-block;
+        padding: 4px;
+        padding-top:px;
+}
+
+
+#com-img
+{
+  background-color: #f5f6f7;
+  padding-bottom:20px;
+  padding-top:0px;
+}
+
+#com-img p
+{
+
+  color: #7a7a7a;
+  text-align:center;
+  font-size:14px;
+  font-weight:;
+  margin:10px;
+  padding-bottom: 20px;
+}
+
+
+#com-img .container
+{
+  background-image: url();
+  border-radius: 0px;
+  padding:0px;
+  border: 0px solid #b0b0b0;
+  background-color: #fff;
+
+}
+
+#com-img .col-md-8
+{
+  background-image: url();
+  background-color:#f5f6f7;
+  padding-bottom:0px;
+  padding-top: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+
+#com-img .col-md-4
+{
+  background-color: #fff;
+  margin:px;
+  border-bottom-left-radius:0px;
+  border-top-left-radius: 0px;
+}
+
+#com-img .container .row
+{
+  border-radius: 0px;
+}
+
+
+#com-img img
+{
+
+  border-bottom: 1px solid #a0a0a0;
+  padding: 30px;
+}
+
+
+#devise
+{
+  background-color: #f5f6f7;
+  text-align:left;
+  padding-top: 30px;
+
+}
+
+#devise h1
+{
+        color:#de3939;
+        font-size:20px;
+        margin-right:0px;
+        line-height:30px;
+        font-weight: bold;
+        text-align:;
+        padding-top:0px;
+        padding-bottom:30px;
+        padding-left:0px;
+}
+
+#devise h3
+{
+  color: #323232;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 0px;
+}
+
+.fourth-section .send-to-portfolio {
+  background-color:;
+  text-align: center;
+  border: 2px solid #202020;
+  
+}
+
+.fourth-section .send-to-portfolio span {
+  display: inline-block;
+  font-size: 15px;
+  color: #555;
+  font-weight: bolder;
+  font-style:;
+}
+
+.fourth-section .send-to-portfolio .primary-button {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.fourth-section .send-to-portfolio .primary-button a {
+  background-color: #0a8850;
+  color: #fff;
+  font-size: 12px;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.fourth-section .send-to-portfolio .primary-button a:hover {
+  background-color:#eee;
+  color: #0a8850;
+  border:2px solid #0a8850;
+}
+
+
+.fourth-section .send-to-portfolio {
+    padding:   10px;
+  }
+  
+  
+/* end presentation */
+
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+#photos {
+  margin-bottom: 50px;
+  text-align: center;
+  padding-top: 50px;
+}
+
+#photos .col-md-3 {
+  padding-bottom: 30px;
+  padding-top: 0px;
+}
+
+
+#photos .row {
+  margin-top:px;
+}
+
+#photos .project-item img {
+  width: 100%;
+  overflow: hidden;
+}
+
+#photos .col-md-2 p
+ {
+  background-color:;
+  color: #0a8850;
+  border: 2px solid #0a8850;
+  font-size: 13px;
+  padding-bottom: px;
+  font-weight: bold;
+  border-radius: 15px;
+  box-shadow: 0px 0px 5px 0px;
+}
+
+#photos .PageOne
+{
+  padding-bottom: 80px;
+  padding-top: 20px;
+}
+
+#photos .PageOne .fa {
+
+  font-size: 25px;
+  color: #0a8850;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+
+#photos .col-md-2 p:hover 
+{
+  background-color:;
+  color: ;
+  box-shadow: 5px 0px 5px 2px;
+}
+
+#photos .fa:hover 
+{
+  color:;
+}
+
+#photos .fa 
+{
+
+  font-size: 40px;
+  color: #777;
+
+}
+
+#photos .fa:hover 
+{
+  color:;
+}
+
+
+

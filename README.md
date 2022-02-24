@@ -1,1 +1,1 @@
-# Site web de la CommunautéCentrafricaine-Ghana
+# Site web de la Communauté Centrafricaine au Ghana
